@@ -1,0 +1,36 @@
+- poema epico-cavaleresco in ottavale
+- tre stesure(1516-1521-1532)
+- tre filoni narrativi principlai: guerra, follia e amore
+- pluralita dei punti di vista
+- tecnica dell'entralecenment e suspanse
+- celebrazione dei fuchi d'esete
+- viaggi e ricerca
+- modelli lettratura cavaleresca(orlando inammorato)
+- linguaggi
+	- prima e seconda edizione (presenza di regionalisti)
+	- terza edizione toscano sul modello delle prosevolgar lingua(pietro bembo)
+- stile
+	- metrica:ottava tipica dei testi cavaleresci
+	- pluralià dei protagonisti varieta di punti di vista
+	- tecnice narrarive
+		- entralecement
+		- suspanse
+		- irnonia
+
+- storie
+	- numerose ed eterogenee si intecciano e si richiamanotraloro
+		- amore e altre passioni terrene
+		- guerra
+		- avventure e meraviglie
+	- desiderio e ricenca
+	- follia
+- la follia come specchio della crisi della civiltà rinasimentale
+- visione pessimistica della natura umana, debole e facilie prdeda dell pasionni
+- il poema come mezzo per diverdire 
+- uso dell' ironia per mettere a nudo ideali e valiri fittizie e ingannevoli
+- temmi principali del poema
+	- quete cioè la ricerca di un oggeto del desiderio che risulta vana e illusoria
+	- determina
+	- viaggio
+	- implica duplice senso di errare "vagare vanamente/cadara in errore"
+	- fortuna ovvero destino capriccioso imprevedibile e inganevvole

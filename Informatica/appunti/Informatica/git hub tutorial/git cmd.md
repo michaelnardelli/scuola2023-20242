@@ -1,0 +1,20 @@
+# comandi 
+ - git
+ - git add +file
+	 - aggiunge
+- git commit +msg 
+- git pull 
+- git push
+- git history
+-  git config pull.rebase false 
+	- merge
+- git config pull.rebase true  
+	-  rebase
+- git config pull.ff only 
+	- fast-forward only
+-   git config --global user.name "Michael nardelli"
+	- per configurare nome 
+- git restet
+	- hard 
+	- soft
+	- cerrypick

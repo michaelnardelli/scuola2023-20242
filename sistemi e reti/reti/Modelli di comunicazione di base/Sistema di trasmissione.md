@@ -1,0 +1,1 @@
+Un sistema di trasmissione può essere una singola linea di trasmissione o una rete complessa che collega sorgente e destinazione.

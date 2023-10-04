@@ -1,0 +1,3 @@
+Si può immaginare il sistema informativo di un'azienda come composto dauno o più database e alcuni dipendenti che devono accedervi da remoto. In questo modello, i dati vengono archiviati su potenti computer chiamatiServer. Spesso questi sono ospitati centralmente e mantenuti da un amministratore di sistema. Al contrario, i dipendenti hannomacchine semplici, chiamatoClienti, sul lorobanchi, usando quale loroaccedere ai dati remoti.
+
+Modello server-client:

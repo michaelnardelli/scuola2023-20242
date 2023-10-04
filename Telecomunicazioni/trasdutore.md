@@ -1,0 +1,1 @@
+Nel linguaggio tecnico e scientifico, apparecchio o dispositivo per la trasduzione di energia, con o senza conversione di questa in una forma diversa.

@@ -1,0 +1,2 @@
+con [[LA CRESCITA DEMOGRAFICA NEL XVI SECOLO]] ci fu in perido di rivoluzione dei prezzi che creo instabilita economia. Con il trasporto di oro e di argento dal nuovo mondo(america) porto ad un alteramento del numero di monete creando cosi un processo per aumentare [[l'inflazione]]. La produzione agricola determinò l'estensione delle proprietà fondiarie si delineò qundi [[un'organizzazione di tipo capitalistico]].
+
