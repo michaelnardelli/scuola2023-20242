@@ -1,0 +1,7 @@
+- trova l'equazione di una retta
+- [[disequazione di 2° grado]] 
+- equazione gognometrice
+- disequazioni frazione
+- sistema di equazioni (1 e2°)
+- sistemi di disequazione
+-
