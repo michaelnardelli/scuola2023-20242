@@ -100,4 +100,22 @@ npm install -g @angular/cli
 - **ng eject**: Estrae la configurazione di Webpack utilizzata da Angular CLI, consentendo una personalizzazione avanzata, ma a spese della facilità d'uso.
 - **ng help** (o semplicemente `ng h`): Fornisce informazioni dettagliate sui comandi Angular CLI e le loro opzioni.
 
-## data and event builid
+## DATA AND EVENT BINDIGN
+
+### DATA binding
+
+- mette in comunicazione ts e html
+  - one way(da ts ad html).
+    -string interoplation
+    -propiety interoplation
+  - two way(da ts ad html, da html ad html ).
+
+ ![one way vs two](https://www.bing.com/images/search?view=detailV2&ccid=VTafYN3n&id=0E605EF03F9BEE20193F7FDA5B70A563DC198007&thid=OIP.VTafYN3nqpJa_wGRuV7mKgHaEV&mediaurl=https%3a%2f%2fsandroroth.com%2fassets%2fblog%2freact-two-way-data-binding%2fdata-binding.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.55369f60dde7aa925aff0191b95ee62a%3frik%3dB4AZ3GOlcFvafw%26pid%3dImgRaw%26r%3d0&exph=853&expw=1456&q=one+way+data+binding+vs+two+way&simid=608006106544758864&FORM=IRPRST&ck=51251971E3E6F7E0CFA1AB940098D88E&selectedIndex=1)
+
+### EVENT BINDIGN
+
+- any=varibile di quelace tipo non tipizata
+
+## ngOnInit
+
+La funzione ngOnInit è un metodo di lifecycle (ciclo di vita) fondamentale nelle applicazioni Angular. È utilizzata per inizializzare componenti dopo che sono stati creati ma prima che vengano visualizzati nell'interfaccia utente.
