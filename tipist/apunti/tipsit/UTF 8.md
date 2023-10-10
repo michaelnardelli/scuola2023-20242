@@ -1,5 +1,5 @@
 [[UNICODE]]
 TRANSFORMATION FORMAT
 CODIFICA A LUNGEZZA Varisbile
-1-8 byte 
-client side 
+1-8 byte
+client side
