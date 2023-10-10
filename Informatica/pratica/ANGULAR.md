@@ -10,8 +10,21 @@ Un linguaggio interperetato viene eseguto senza modifica reasformazione su quals
 ## COME INSTALLARE ANGULAR
 
 1. scaricare ed installare Nodejs sul proprio PC **NB: per lo sviluppo i useranno codespaces, quindi non è necessario installare nulla.**
+2. Insallare angular
+'''
+npm install -g @angular/cli
+'''
+    - per aggiornagre npm
+        '''
+        npm install -g npm@10.1.0
+        '''
 
-## siti utili 
+# siti utili
+
 - [ANGULAR MATERIAL](https://material.angular.io/)
 - [Bootstrap](https://getbootstrap.com/)
+- [JSON](http://www.json.org/json-it.html)
 
+## Nomi oggtei engular trattiro per dvidere
+
+## FILE IMPORTANTI

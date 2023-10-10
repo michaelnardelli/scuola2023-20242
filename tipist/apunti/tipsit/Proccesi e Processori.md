@@ -1,20 +1,24 @@
-Processo = programma  in esecuzione 
+Processo = programma  in esecuzione
 
+Programma
 
-Programma 
 - entità  statica(codice)
-Processo 
+Processo
  entità dinamica
+
 ## STATO DI UN PROCESSO
+
 ## LAYOUT IN MEMORIA (RAM) DI UN PROCCESO
 
 layout semplificato
 ![[Pasted image 20231003091342.png]]
 STATO DEL PROCCESSO
 
-
 #### STACK
+
  MEORIA DINAMICA
- DRURANTE ESEGUZIONE DI CODICE 
-#### HEAP 
-Parametri di funzioni e metodi 
+ DRURANTE ESEGUZIONE DI CODICE
+
+#### HEAP
+
+Parametri di funzioni e metodi
