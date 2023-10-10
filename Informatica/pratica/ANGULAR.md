@@ -29,13 +29,13 @@ npm install -g @angular/cli
 
 ## FILE IMPORTANTI
 
-- [[angular.json]]
+- angular.json
   - puoi camibare il nome della icona principale
-- [[package.json]]
+- package.json
 
 ## CARTELLA SCR
 
-### [INDEX.HTML]]([index.html)]
+### INDEX.HTML
 
 - teamplate eseterno(front-end)
 
@@ -47,14 +47,14 @@ npm install -g @angular/cli
 - più facile per riutilizare il codice in una eventuale creazione di una altra aplicazione
 - ha un file ts(typescript)
 
-### [STYLE.CSS]([styles.css)]
+### STYLE.CSS
 
 - CSS lavora in cascating(cioè la ultima parte del codice a ragione )
 - style della pagina
   - img
     -fonnt
 
-### [FAVICON.ICO]([favicon.ico)]
+### FAVICON.ICO
 
 - si crea con inzialiazione di angulatr
 - si puo camiare
@@ -69,7 +69,7 @@ npm install -g @angular/cli
 - vari oggeti(componet) che offre angular
 - tutti inizano con app.componet
 
-#### [APP.COMPONENT.TS]([app.component.ts)]
+#### APP.COMPONENT.TS
 
 - diciari una varibile e la puoi utilizare su un altro file
 - ha un file html
@@ -100,4 +100,4 @@ npm install -g @angular/cli
 - **ng eject**: Estrae la configurazione di Webpack utilizzata da Angular CLI, consentendo una personalizzazione avanzata, ma a spese della facilità d'uso.
 - **ng help** (o semplicemente `ng h`): Fornisce informazioni dettagliate sui comandi Angular CLI e le loro opzioni.
 
-# data and event builid
+## data and event builid
