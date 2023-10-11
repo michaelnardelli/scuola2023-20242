@@ -21,9 +21,9 @@ GIF
 
 ![A Promise has three possible states](https://res.cloudinary.com/practicaldev/image/fetch/s--xQEcd4mm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/egeadd2zaf8igo461qee.gif)
 
-1.  **Pending:** The initial state of a Promise. The Promise is neither fulfilled nor rejected.
-2.  **Fulfilled:** The Promise has been resolved and the resulting value is available.
-3.  **Rejected:** The Promise has been rejected and an error occurred.
+1. **Pending:** The initial state of a Promise. The Promise is neither fulfilled nor rejected.
+2. **Fulfilled:** The Promise has been resolved and the resulting value is available.
+3. **Rejected:** The Promise has been rejected and an error occurred.
 
 ---
 
@@ -97,16 +97,15 @@ We can create many chains with `then()` method as per the requirements. Like s
 
 Promises provide several benefits over traditional callback based approaches to handling asynchronous operations in JavaScript. Some of the key benefits include:
 
-1.  **Better readability:** Promises allow you to write code that is more readable and easier to understand than traditional callback-based approaches. With Promises, you can chain together asynchronous operations in a sequence, which makes it clear what order the operations are executed in.
-    
-2.  **Improved error handling:** Promises make it easier to handle errors that occur during asynchronous operations. With Promises, you can use the catch method to handle errors that occur during any step in the chain, rather than having to handle errors separately for each step.
-    
-3.  **Avoiding callback hell:** Promises can help you avoid "callback hell," a situation where you have a chain of nested callbacks that can become difficult to manage and debug. With Promises, you can chain together asynchronous operations without having to nest multiple levels of callbacks.
-    
-4.  **Ability to return a value:** Promises allow you to return a value from an asynchronous operation, which makes it easier to pass the result of one operation to another operation in a sequence. This is particularly useful when you need to perform multiple asynchronous operations in a sequence and need to use the result of each operation in the next operation.
-    
-5.  **Better compatibility:** Promises are a standardized feature in modern JavaScript, and are supported by all modern browsers and Node.js. This means that Promises can be used across different environments without requiring different code for each environment.
-    
+1. **Better readability:** Promises allow you to write code that is more readable and easier to understand than traditional callback-based approaches. With Promises, you can chain together asynchronous operations in a sequence, which makes it clear what order the operations are executed in.
+
+2. **Improved error handling:** Promises make it easier to handle errors that occur during asynchronous operations. With Promises, you can use the catch method to handle errors that occur during any step in the chain, rather than having to handle errors separately for each step.
+
+3. **Avoiding callback hell:** Promises can help you avoid "callback hell," a situation where you have a chain of nested callbacks that can become difficult to manage and debug. With Promises, you can chain together asynchronous operations without having to nest multiple levels of callbacks.
+
+4. **Ability to return a value:** Promises allow you to return a value from an asynchronous operation, which makes it easier to pass the result of one operation to another operation in a sequence. This is particularly useful when you need to perform multiple asynchronous operations in a sequence and need to use the result of each operation in the next operation.
+
+5. **Better compatibility:** Promises are a standardized feature in modern JavaScript, and are supported by all modern browsers and Node.js. This means that Promises can be used across different environments without requiring different code for each environment.
 
 ---
 
@@ -116,12 +115,11 @@ In modern JavaScript - No, you cannot cancel a Promise once it has been created.
 
 There are some techniques you can use to simulate cancellation:
 
-1.  **Timeout:** You can use a timeout to reject the Promise if it takes too long to resolve. This technique is useful if you are making a network request and want to limit the amount of time it takes.
-    
-2.  **Aborting a network request:** You can use an abort controller to abort a network request. The Fetch API provides an AbortController API that allows you to cancel a network request before it completes.
-    
-3.  **Using a flag:** You can use a flag in your code to simulate cancellation. You can set the flag to true to indicate that the operation should be canceled, and then check the flag in your Promise code to determine whether to continue or reject the Promise.
-    
+1. **Timeout:** You can use a timeout to reject the Promise if it takes too long to resolve. This technique is useful if you are making a network request and want to limit the amount of time it takes.
+
+2. **Aborting a network request:** You can use an abort controller to abort a network request. The Fetch API provides an AbortController API that allows you to cancel a network request before it completes.
+
+3. **Using a flag:** You can use a flag in your code to simulate cancellation. You can set the flag to true to indicate that the operation should be canceled, and then check the flag in your Promise code to determine whether to continue or reject the Promise.
 
 It's worth noting that none of these techniques truly cancel a Promise; they simply reject it early. If you need true cancellation, you may need to use a library that provides cancellation support, such as [rxjs](https://rxjs.dev/) or [bluebird](http://bluebirdjs.com/docs/getting-started.html).
 
