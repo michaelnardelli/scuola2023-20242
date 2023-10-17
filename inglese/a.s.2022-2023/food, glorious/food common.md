@@ -1,0 +1,8 @@
+ - eat
+ - fruit
+ - fast food
+ - rutine 
+ -   cultivation
+ - kicen 
+- resutrant 
+- 

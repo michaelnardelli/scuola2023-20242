@@ -1,0 +1,5 @@
+Come il modello OSI, il modello di riferimento IoT World Forum è suddiviso in sette parti. Tuttavia, tali parti sono chiamate "livelli" anziché "strati". Il modello di riferimento IoT è stato sviluppato come un quadro comune per guidare e accelerare le implementazioni di IoT. Il modello è il risultato di un sforzo collaborativo dei 28 membri del gruppo di lavoro sull'architettura, la gestione e l'analisi del IoT World Forum. È inoltre approvato dall'Industrial Internet Consortium (IIC).
+
+L'obiettivo del modello di riferimento IoT è fornire un linguaggio comune e aiutare a chiarire come le informazioni fluiscono e vengono elaborate per un'industria IoT unificata.
+
+Come mostrato nella figura, il modello suddivide il concetto di IoT in sette livelli funzionali, partendo dai dispositivi fisici e dai controller al Livello 1 fino alla collaborazione e ai processi al Livello 7.
