@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "777f8ef48fdb60a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4aa85872805b33d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be3dd621df266ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apunti/tipsit/Proccesi e Processori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca8c367a057178c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scalletta verifica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fde5f60b0a5183a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "363ad4c65e792d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af32de3874ff731",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bf9445669c1e14a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a52dc2f219694cc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e0bafaf8de21f5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f47bf7e14aed5353",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fb3221dc2c8ad39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "scalletta verifica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06cd591a4fbffa85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "scalletta verifica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38d8440e879e8572",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6249976fa873f83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "scalletta verifica.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "cca8c367a057178c",
+  "lastOpenFiles": [
+    "beginner-vanilla-javascript-project-tutorial-michaelnardelli/README.md",
+    "apunti/tipsit/Proccesi e Processori.md",
+    "scalletta verifica.md"
+  ]
+}

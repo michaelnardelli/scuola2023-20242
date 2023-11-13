@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "44cc6a44dcafad94",
+    "type": "split",
+    "children": [
+      {
+        "id": "7716587eff206d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18b18ed7f5860276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "luduvico ariosto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c031ca499a87a1e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orlando furioso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44791b2837dbeac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ebdad4309759313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "014892ed7e94f173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abf0ee723e8cbf2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c4dc797979fd6e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e7d8fc1828e853d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de9afb400cb409d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb6a74918052423a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f23a0ab45264b15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orlando furioso.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faf02ebcdf4a5704",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orlando furioso.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a27fe2b3dbd15291",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a70b4b4c5a287c49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orlando furioso.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "c031ca499a87a1e0",
+  "lastOpenFiles": [
+    "luduvico ariosto.md",
+    "Orlando furioso.md"
+  ]
+}

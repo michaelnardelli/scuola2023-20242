@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "483eeb6cc216d72e",
+    "type": "split",
+    "children": [
+      {
+        "id": "337f450d3411e310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aabf6dd12afe1fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "segnale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4405d1f8bcd4340",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2023-2024/Analisi spetrale/230911_Analisi_spettrale_segnali_campionati_.pdf"
+              }
+            }
+          },
+          {
+            "id": "0e59922953443697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "istanti temporali.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66d7c0a3c24b6200",
+    "type": "split",
+    "children": [
+      {
+        "id": "aef49c35b8e61e11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ad3f98ebd56789",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80c53e528ff713f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ddfb817678e8a92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "619d54761b2ac0a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2e73beb4e0f4ea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "368f7600c3b850ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-2024/Analisi spetrale/230911_Analisi_spettrale_segnali_campionati_.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00f9ef52a9a5baf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-2024/Analisi spetrale/230911_Analisi_spettrale_segnali_campionati_.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7dd07fd55e06fba0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f5a7c024447b27e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-2024/Analisi spetrale/230911_Analisi_spettrale_segnali_campionati_.pdf"
+              }
+            }
+          },
+          {
+            "id": "fd23125280f51d8e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "a4405d1f8bcd4340",
+  "lastOpenFiles": [
+    "istanti temporali.md",
+    "segnale.md",
+    "Senza nome.md",
+    "2023-2024/Analisi spetrale/230911_Analisi_spettrale_segnali_campionati_.pdf",
+    "2023-2024/Analisi spetrale/ANALISI SPETTRALE.md",
+    "2022-2023/Linee di Trasmissione RF cavi in rame/Linee di tarsmisioni.md",
+    "2023-2024/Analisi spetrale/18_09_2023.med",
+    "trasdutore.md",
+    "2023-2024/Analisi spetrale",
+    "2023-2024",
+    "2022-2023"
+  ]
+}

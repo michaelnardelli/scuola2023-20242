@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "cf3d282da9aafc40",
+    "type": "split",
+    "children": [
+      {
+        "id": "67ad1823e3ca65e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dacbe7d8d8f6b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network basic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfe9a6b3612d64fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network basic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66958bd650fc3e28",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7d6cec815f5a6a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbba1eb00aa75d00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "161bca38e2aaf499",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf2633e20edd9504",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efc8bf1c6d399e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd7a423f6a94e7ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b2dab53c77a0e98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Network basic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b2712565597b80c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Network basic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11927dd93cb39fab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09a9656b359e31e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Network basic.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "dfe9a6b3612d64fb",
+  "lastOpenFiles": [
+    "Reti di computer/Affidabilità.md",
+    "Classificazione delle reti per dimensione/tipologie di rete/Rete locale (LAN)/Caratteristiche della LAN.md",
+    "Classificazione delle reti per dimensione/tipologie di rete/Rete locale (LAN)/Applicazioni di LAN.md",
+    "Classificazione delle reti per dimensione/tipologie di rete/Rete locale (LAN)/Rete locale (LAN).md",
+    "Classificazione delle reti per dimensione/tipologie di rete/Rete locale (LAN)/Svantaggi della LAN.md",
+    "Classificazione delle reti per dimensione/tipologie di rete/Rete locale (LAN)/Vantaggi della LAN.md",
+    "Reti di computer/Prestazioni.md",
+    "Network basic.md",
+    "Reti di computer/Reti di computer.md",
+    "Comunicazione dei dati/Il protocollo della finestra scorrevole.md",
+    "Comunicazione dei dati/Comunicazione dei dati.md",
+    "Comunicazione dei dati/Comunicazione dati remota.md",
+    "Comunicazione dei dati/locale.md",
+    "Comunicazione dei dati/Sistemi aperti - Protocolli e standard.md",
+    "Comunicazione dei dati/Rilevamento e correzione degli errori.md",
+    "Comunicazione dei dati/finestre/Finestra di ricezione.md",
+    "Comunicazione dei dati/finestre/Finestra mittente.md",
+    "Comunicazione dei dati/finestre",
+    "tutto.md",
+    "Senza nome",
+    "Usi delle reti di computer/Reti di computer applicazioni domestiche/Reti di computer applicazioni domestiche.md",
+    "Classificazione delle reti per dimensione/Classificazione delle reti per dimensione.md",
+    "Classificazione delle reti per dimensione/tipologie di rete/Body Area Network (BAN).md",
+    "2023-05-29.md",
+    "Senza nome.canvas",
+    "tutto assieme.md",
+    "Classificazione delle reti per dimensione/tipologie di rete/Rete personale (PAN).md",
+    "Classificazione delle reti per dimensione/tipologie di rete/Rete locale (LAN)",
+    "Classificazione delle reti per dimensione/tipologie di rete",
+    "Usi delle reti di computer/Reti di computer applicazioni aziendali/Commercio elettronico.md",
+    "Usi delle reti di computer/Usi delle reti di computer.md",
+    "Usi delle reti di computer/Reti di computer utenti mobili",
+    "Usi delle reti di computer/Reti di computer applicazioni domestiche",
+    "Usi delle reti di computer/Reti di computer applicazioni aziendali",
+    "Classificazione delle reti per dimensione",
+    "Comunicazione dei dati",
+    "Usi delle reti di computer"
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "6dbe193f0e1f992a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f887863d90e716c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ba0ebb15eccff69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ripasso/CODIFICA DEI CARATTERI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5f59e1368250428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASCII.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "779ea7b8ba896366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNICODE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6816d6f6f9c48b99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UTF 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea46f9a9390cdcf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proccesi e Processori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1c98ae47090b283",
+    "type": "split",
+    "children": [
+      {
+        "id": "85b8604286cacbd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a687977aa2bf3c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65a98d53dce5b0e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c05f51c74c0ebc38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6be3012067825400",
+    "type": "split",
+    "children": [
+      {
+        "id": "a73e2a13951dfb7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "647d5b9811105385",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Proccesi e Processori.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0b746fbaffee624",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Proccesi e Processori.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae9118ae596669e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63f1620da438b848",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Proccesi e Processori.md"
+              }
+            }
+          },
+          {
+            "id": "d58da514370238c6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "ea46f9a9390cdcf0",
+  "lastOpenFiles": [
+    "Pasted image 20231003091343.png",
+    "Pasted image 20231003091342.png",
+    "UTF 8.md",
+    "Proccesi e Processori.md",
+    "UNICODE.md",
+    "ripasso/CODIFICA DEI CARATTERI.md",
+    "Pasted image 20230919093411.jpg",
+    "ASCII.md",
+    "ripasso/ripasso.md",
+    "ripasso/asciistd.gif",
+    "ripasso"
+  ]
+}

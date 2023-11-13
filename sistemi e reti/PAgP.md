@@ -1,0 +1,2 @@
+
+Port Aggregation Protocol è un protocollo di rete proprietario di Cisco Systems, utilizzato per l'aggregazione automatizzata di collegamenti delle porte degli switch Ethernet, nota come EtherChannel. PAgP è di proprietà di Cisco Systems

@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "5a5528296e666e75",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a2ce7d4e44e7566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07ea0d894bfb328d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "formule di duplcazioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c3f96ab6c5d0fbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "esercizi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1237c48751496629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "formule di duplcazioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1361d7cdae74cac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad496ec981257c99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9e6acd5479a0198",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33e339fcd3c57a8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ebc3bad5f3e7e2f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da48efb2d9681d69",
+    "type": "split",
+    "children": [
+      {
+        "id": "98646786cbc47748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a3f1f5ee2930cfe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "formule di duplcazioni.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75539bfb07e80677",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "formule di duplcazioni.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aac24a3657bccd89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d08aae68ae19e4b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "formule di duplcazioni.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "1237c48751496629",
+  "lastOpenFiles": [
+    "esercizi.md",
+    "immagini/Pasted image 20230308093419.png",
+    "immagini/Pasted image 20230308093335.png",
+    "immagini/Pasted image 20230308092447.png",
+    "immagini/Pasted image 20230308092255.png",
+    "immagini/Pasted image 20230308091743.png",
+    "formule di duplcazioni.md",
+    "Pasted image 20230308091403.png",
+    "immagini"
+  ]
+}

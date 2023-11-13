@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "fd593f0265070318",
+    "type": "split",
+    "children": [
+      {
+        "id": "15c32b8e7ba3900b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fdbd8eba7d22fe6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2808920646402980",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce811a7d0046469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "012ed44751ee674a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b982cdae49fa825",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e230f09c55c36577",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc84bc11607ef5af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04e86067618910b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c76d0b1ca65c522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "126d1a860694c775",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ba6f96633851eb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c30f472b449aa476",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "349bb5bc894a754a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "5fdbd8eba7d22fe6",
+  "lastOpenFiles": [
+    "pag 269 es 188.md",
+    "SPORTELLO.md",
+    "immagine/Pasted image 20230510141244.png",
+    "pag 268 es 172.md",
+    "governo.md",
+    "pag 255 es21.md",
+    "come risolvere senza punti.md",
+    "immagine/Pasted image 20230510143031.png",
+    "immagine/Pasted image 20230510142314.png",
+    "immagine/Pasted image 20230510143317.png",
+    "come risolvere con i tre punti.md",
+    "pag 260 es 87.md",
+    "immagine/Pasted image 20230308090417.png",
+    "immagine/download.png",
+    "immagine/Pasted image 20230308091043.png",
+    "immagine/Pasted image 20230308090628.png",
+    "Pasted image 20230308090459.png.md",
+    "immagine/Pasted image 20230308090459.png",
+    "immagine"
+  ]
+}

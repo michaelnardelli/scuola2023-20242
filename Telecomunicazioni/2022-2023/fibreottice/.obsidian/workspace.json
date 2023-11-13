@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "4395ad873a00944e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aecb3c914edff26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f904f352a134a0b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Screenshot (6).png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45700a1d138f4391",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0ff1c06a1f8c220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0cc11c21e42265f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b76ae1d74e7035f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "061d6df330bec371",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "514e4565d6daf9ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32265fea6ceafa01",
+    "type": "split",
+    "children": [
+      {
+        "id": "65af7316cc89bd57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d3a2e651a983e4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "img/Screenshot (6).png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90781be8bfe9ae6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "img/Screenshot (6).png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15694498dc432f72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f5926d5c1a19597",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "img/Screenshot (6).png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "8f904f352a134a0b",
+  "lastOpenFiles": [
+    "ES a.md",
+    "ES B ù.md",
+    "img/Pasted image 20230510105217.png",
+    "img/Pasted image 20230510105522.png",
+    "img/Pasted image 20230510104253.png",
+    "img/Pasted image 20230508152013.png",
+    "img/Pasted image 20230508144955.png",
+    "img/Pasted image 20230504113610.png",
+    "img/Pasted image 20230503170647.png",
+    "img/Pasted image 20230503164019.png",
+    "img/Screenshot (6).png",
+    "img/Pasted image 20230510104619.png",
+    "introduzione alle Fibre Ottiche.md",
+    "FIBRE OTTICE COLLEGANENTI.md",
+    "intro.md",
+    "fibre  monomodali vs fibre  multimodali.md",
+    "rifrazione.md",
+    "Senza nome.canvas",
+    "img",
+    "tutto.md"
+  ]
+}

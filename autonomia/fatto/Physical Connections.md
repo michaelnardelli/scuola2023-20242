@@ -1,0 +1,10 @@
+Esistono tre tipi di supporti utilizzati dai dispositivi IoT per comunicare:
+
+1. **Cavo di rame (Copper):** Le reti utilizzano il cavo di rame perché è economico, facile da installare e ha una bassa resistenza alla corrente elettrica. Tuttavia, il cavo di rame è limitato dalla distanza e dall'interferenza del segnale. Pertanto, tutti i supporti in rame devono seguire rigorose limitazioni di distanza specificate dagli standard di riferimento.
+    
+2. **Fibra ottica (Fiber Optics):** I cavi in fibra ottica possono percorrere distanze significativamente più lunghe rispetto ai cavi in rame grazie alla loro immunità all'interferenza del segnale. Il dispositivo mittente trasmette i bit binari come impulsi luminosi utilizzando LED o laser. Il dispositivo ricevente utilizza fotodiodi per rilevare gli impulsi luminosi e convertirli in tensioni. I cavi in fibra ottica sono ampiamente classificati come fibra monomodale (SMF) e fibra multimodale (MMF). La SMF è costituita da un nucleo molto piccolo che utilizza tecnologia laser costosa per inviare un singolo raggio di luce su lunghe distanze di centinaia di chilometri. La MMF ha un nucleo più grande e utilizza emettitori LED a costo inferiore per inviare impulsi luminosi. La MMF è popolare nelle implementazioni LAN perché può supportare 10 Gb/s su collegamenti di 550 metri.
+    
+3. **Wireless (Senza fili):** Le connessioni wireless comprendono una vasta gamma di opzioni di connessione, tra cui segnali elettromagnetici, frequenze radio e microonde e collegamenti satellitari.
+    
+
+Tutti i connettori dei cavi di rame e fibra aderiscono a specifici standard del livello fisico. Questi standard specificano le dimensioni meccaniche dei connettori e le proprietà elettriche accettabili di ciascun tipo. Questi supporti di rete utilizzano comunemente jack e spine modulari per consentire una connessione e una disconnessione facili.

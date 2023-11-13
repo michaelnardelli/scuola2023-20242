@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "24c63d704a74fec5",
+    "type": "split",
+    "children": [
+      {
+        "id": "44d499655041d944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "144824d578e53ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la fioritura del poema cavaleresco nel rinascimento italiano/ORLANDO INNAMORATO DI BOIARDO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3759025436346c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d39b2f9293f3feba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4d5cf1795ba2581",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d889a613e4cbf0fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57acc684984c441f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aac6854002461f59",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb7b4dfc243db35b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76859564a8c814f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "la fioritura del poema cavaleresco nel rinascimento italiano/ORLANDO INNAMORATO DI BOIARDO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9d165d122a0f5db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "la fioritura del poema cavaleresco nel rinascimento italiano/ORLANDO INNAMORATO DI BOIARDO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2376524dd696cb24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b2fb49cf8cdcb08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "la fioritura del poema cavaleresco nel rinascimento italiano/ORLANDO INNAMORATO DI BOIARDO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "d4d5cf1795ba2581",
+  "lastOpenFiles": [
+    "la fioritura del poema cavaleresco nel rinascimento italiano/fioritura di un poema cavaleresco di alto livello artistico di alto livello.md",
+    "la fioritura del poema cavaleresco nel rinascimento italiano/ORLANDO INNAMORATO DI BOIARDO.md",
+    "la fioritura del poema cavaleresco nel rinascimento italiano/cultura umanistica.md",
+    "la fioritura del poema cavaleresco nel rinascimento italiano/mecenatispo nelle corti.md",
+    "la fioritura del poema cavaleresco nel rinascimento italiano/la fioritura del poema cavaleresco nel rinascimento italiano.md",
+    "la fioritura del poema cavaleresco nel rinascimento italiano/MORGANTE PULCI.md",
+    "la fioritura del poema cavaleresco nel rinascimento italiano",
+    "fioritura di un poema cavaleresco di alto livello artistico.md",
+    "di alto livello artistico.md"
+  ]
+}
