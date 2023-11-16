@@ -1,0 +1,1 @@
+**dispositivi fisici che si connettono e scambiano informazioni con una rete di compute**

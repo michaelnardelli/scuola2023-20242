@@ -1,0 +1,1 @@
+Il Dynamic Host Configuration Protocol (DHCP) è un protocollo di gestione della rete utilizzato sulle reti Internet Protocol per l’assegnazione automatica di indirizzi IP e per inviare altri parametri di comunicazione ai dispositivi connessi alla rete mediante un’architettura client-server.

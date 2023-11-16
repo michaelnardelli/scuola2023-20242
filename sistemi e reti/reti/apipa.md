@@ -1,0 +1,1 @@
+APIPA (Automatic Private IP Addressing)Quando un client ha necessità di un indirizzo IP in mancanza di indirizzo statico ed in assenza di server [DHCP](Dynamic-Host-Configuration-Protocol.md), il protocollo APIPA in funzione su ogni singolo client auto-**assegna un indirizzo IP nel range 169.254.** **x.y con subnet mask 255.255.0.0**.

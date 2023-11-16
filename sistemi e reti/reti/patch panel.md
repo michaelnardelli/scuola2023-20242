@@ -1,0 +1,1 @@
+Il patch panel o sezionatore è un sistema che interfaccia tra di loro sezioni diverse di un cablaggio. Tipicamente è composto da una serie di pannelli forati sul retro dei quali sono raccordate le sezioni di cablaggio
