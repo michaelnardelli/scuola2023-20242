@@ -11,11 +11,9 @@
             "id": "4d4639f659a7218b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Informatica/appunti/lista albero.md",
-                "mode": "source",
-                "source": false
+                "file": "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a769d7a9af2240f9",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/appunti/lista albero.md",
+                "file": "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/appunti/lista albero.md",
+                "file": "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/appunti/lista albero.md"
+                "file": "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf"
               }
             }
           }
@@ -146,8 +144,17 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "83526c6744f1b545",
+  "active": "4d4639f659a7218b",
   "lastOpenFiles": [
+    "religione/religione/religione.md",
+    "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf",
+    "religione/religione/Morale.md",
+    "autonomia/comandi rasspery.md",
+    "autonomia/comnadi rasperry.md",
+    "autonomia/IoT World Forum Reference Model.md",
+    "autonomia/python/come crare un progetto in phyton.md",
+    "autonomia/ssh.md",
+    "Informatica/appunti/lista albero.md",
     "Pasted image 20231113085923.png",
     "Pasted image 20231113085809.png"
   ]
