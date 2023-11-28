@@ -2,7 +2,7 @@
 (root)(binario)
 
 
-![[Pasted image 20231113085809.png]]
+![[tipist/apunti/Pasted image 20231113085809.png]]
 ## tipi diversi
 
 
