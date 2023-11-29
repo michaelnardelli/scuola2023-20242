@@ -23,3 +23,9 @@ arccitetura x86
 -esegue una operazione
  VA=P/:W
  RI^2
+
+# tcp
+	porte 
+	- http=80
+	- https=443
+				- 
