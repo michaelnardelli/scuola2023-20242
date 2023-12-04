@@ -10,8 +10,8 @@ Il protocollo della finestra scorrevole è aprotocollo di controllo del flusso c
     Per il protocollo della finestra scorrevole stop-and-wait, 𝑛 = 1.
     
 
-- ## [[Finestra mittente]]
-- ## [[Finestra di ricezione]]
+- ## [[sistemi e reti/reti/Comunicazione dei dati/finestre/Finestra mittente]]
+- ## [[sistemi e reti/reti/Comunicazione dei dati/finestre/Finestra di ricezione]]
 - 
 
 

@@ -1,18 +1,18 @@
 
-### 1. [[Condivisione delle risorse]]
+### 1. [[sistemi e reti/reti/Usi delle reti di computer/Reti di computer applicazioni aziendali/Condivisione delle risorse]]
 
 
 
-### 2. [[Modello server-client]]
+### 2. [[sistemi e reti/reti/Usi delle reti di computer/Reti di computer applicazioni aziendali/Modello server-client]]
 
 
 
-### 3. [[Usi delle reti di computer/Reti di computer applicazioni aziendali/Comunicazione]]
+### 3. [[sistemi e reti/reti/Usi delle reti di computer/Reti di computer applicazioni aziendali/Comunicazione]]
 
 
   
 
-### 4. [[Commercio elettronico]]
+### 4. [[sistemi e reti/reti/Usi delle reti di computer/Reti di computer applicazioni aziendali/Commercio elettronico]]
 
 
 

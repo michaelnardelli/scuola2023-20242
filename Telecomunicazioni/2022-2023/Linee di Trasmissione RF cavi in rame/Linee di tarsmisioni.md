@@ -10,6 +10,7 @@ nel vuoto, e nell’aria, senza bisogno di predisporre dei cavi.
 Supponiamo di voler collegare un generatore VS ad un carico RL posto ad una
 certa distanza, come riportato in figura.
 
+
 Nel modello più generale una linea di trasmissione può essere schematizzata
 come due conduttori paralleli che connettono un generatore ad un carico.
 Fissiamo un sistema di riferimento dove x è la distanza di un generico punto della
@@ -21,11 +22,14 @@ tensione che abbiamo nell’istante t in corrispondenza del punto che dista 0 me
 dal generatore.
 Oppure usiamo una rappresentazione vettoriale, che potremmo definire come:
 
+
 .
 
 Normalmente facciamo l’ipotesi che il segnale del generatore abbia fase nulla.
 La tensione istantanea iniziale — nel senso di inizio della linea — v(0,t) tra i due
 conduttori avrà una descrizione matematica del tipo seguente:
+
+
 
 dove abbiamo scritto esplicitamente che la fase del segnale vale zero in
 corrispondenza del generatore. Possiamo allora scrivere:
@@ -40,6 +44,8 @@ Infatti in questo caso non avremmo alcuna caduta ai capi di RS e risulterebbe
 v(0,t) = vS(t) . Ma per ottenere ciò occorre tagliare i fili in corrispondenza dei
 morsetti, staccando il generatore dalla linea. Dunque NON verrebbe trasmesso
 alcun segnale verso il carico.
+
+
 
 Il carico (Load) è posto a distanza xL dal generatore, dove xL è la lunghezza della
 linea. La tensione sinusoidale in quel punto verrà chiamata tensione finale, oppure
@@ -72,6 +78,8 @@ tutta la lunghezza della linea prima di arrivare al carico, e questo viaggio ric
 un certo tempo detto tempo di propagazione. Quindi gli effetti dei tempi di
 propagazione non possono essere trascurati.
 
+
+
 Per capire in modo approssimativo ciò che accade in una linea, pensiamo ad un
 tubo di gomma usato per irrigare un giardino. Il tubo è inizialmente vuoto. Quando
 viene aperto il rubinetto l’acqua non sgorga subito nell’estremità finale, posta
@@ -81,9 +89,12 @@ Il segnale mentre si propaga nella linea subisce uno sfasamento a causa del fatt
 che la velocità di propagazione non è infinita. Infatti quando un campo EM si
 propaga in un mezzo, la sua velocità di propagazione vale:
 
+
 dove e è la permittività elettrica del mezzo (detta anche costante dielettrica)
 mentre m è la permeabilità magnetica del mezzo.
 Se il mezzo è il vuoto (oppure l’aria) allora la sua permeabilità vale:
+
+
 
 e la sua permittività vale:
 
@@ -124,12 +135,17 @@ dal particolare isolante usato. Questo fatto comporta come conseguenza che in
 un cavo il campo EM si propaga ad una velocità inferiore a quella che
 raggiungerebbe nel vuoto. La velocità di propagazione vale:
 
+	
+
 Per i materiali plastici in genere abbiamo mr = 1 e perciò : vp = c/√(er) .
 Essendo normalmente per gli isolanti dei cavi : 2 < er < 3 risulta che la velocità di
 propagazione vp è poco più della metà del valore che avrebbe nel vuoto:
 
+
+
 La lunghezza d’onda di un campo EM è lo spazio che il suo fronte d’onda riesce a
 percorrere in un ciclo del generatore:
+
 
 dove T è il periodo del generatore, ovvero il tempo impiegato per compiere un
 ciclo; mentre f è la frequenza del generatore, ovvero il numero di cicli emessi in un
@@ -139,11 +155,14 @@ Supponiamo, ad esempio, che un generatore emetta un segnale di frequenza
 f = 1 GHz e che la velocità di propagazione valga: vp = 2 . 108 m/s ; in tal caso la
 lunghezza d’onda del segnale vale:
 
+
 Se poniamo un osservatore alla distanza di 20 cm dal generatore, come sarà fatto
 il segnale osservato in quel punto? Sarà una sinusoide con un ritardo di fase pari
 ad un ciclo esatto rispetto al generatore; ossia un ritardo di fase pari a 360°
 ovvero 1 a.g. (angolo giro) oppure 2p rad. Questo corrisponde in termini di tempo
 ad un ritardo di propagazione pari a:
+
+
 
 Dunque nel momento in cui viene acceso il generatore, esso comincia ad erogare
 la sua prima semionda positiva. Ma noi che ci siamo posti ad osservare il segnale
@@ -151,6 +170,7 @@ nel punto situato in (x = l ) ovvero a venti centimetri di distanza, non vediamo
 effetti alcun segnale all’inizio. Perché dobbiamo aspettare un intero nanosecondo
 affinché il fronte d’onda del campo EM arrivi fino a noi.
 Come si può notare dalla figura seguente.
+
 
 Come si può notare
 c’è un ritardo nel
@@ -164,6 +184,7 @@ punto? E di conseguenza, quanto vale il ritardo di fase (in radianti od in gradi
 segnale per arrivare in quel punto?
 Ricordiamo che la tensione di linea vale:
 
+
 dove v(x,t) è la tensione istantanea nel punto che dista x metri dal generatore; VXM
 è la sua ampiezza massima in quel punto e j è il ritardo di fase della tensione nel
 punto x rispetto alla tensione iniziale. Lo sfasamento j del segnale in linea è
@@ -173,6 +194,7 @@ Se x = l/2 allora tp = T/2 ; e j = 180° = p rad = mezzo ciclo.
 Un osservatore posto in x = l /2 deve aspettare mezzo nanosecondo affinché il
 fronte d’onda del campo EM arrivi fino a lui.
 Come si vede dalla figura.
+
 
 500 750
 
@@ -277,6 +299,8 @@ I2 = I1 – IG – IC = I1 – (G + YC)
 
 dove G è la conduttanza di perdita dovuta all'isolante imperfetto mentre
 
+
+
 è l'ammettenza capacitiva. Queste vengono chiamate impedenze (ammettenze)
 trasversali essendo disposte di traverso alla linea.
 Se volessimo ottenere G = 0 dovremmo utilizzare un isolante avente resistività
@@ -290,10 +314,14 @@ Dunque possiamo affermare che la tensione e la corrente in uscita sono più
 piccole, in modulo, rispetto a quelle in ingresso alla linea. Inoltre, poiché le
 ammettenze ed impedenze reattive
 
+
+
 provocano uno sfasamento fra le tensioni e le correnti che le interessano, di
 conseguenza accadrà che la tensione in uscita V2 oltre ad essere più piccola in
 modulo rispetto a V1 , sarà anche sfasata rispetto a V1 . Un ragionamento simile si
 può fare per quanto riguarda le correnti. È bastato far percorrere al segnale un
+
+
 
 solo centimetro di linea per ritrovarsi con una tensione (V2) ed una corrente (I2)
 attenuate (in modulo) e ritardate (in fase) rispetto a V1 ed I1 .
@@ -313,12 +341,15 @@ dove w è la pulsazione del segnale prodotto dal generatore: w = 2pf .
 I due fenomeni (sfamento ed attenuazione) avvengono contemporaneamente.
 Abbiamo allora che l’ampiezza (il modulo) della tensione diminuisce:
 
+
+
 a causa delle due cadute di tensione VR e VL della figura 5. Ed inoltre abbiamo
 che anche il modulo della corrente diminuisce:
 
 a causa delle due perdite di corrente IG ed IC .
 Se questa sezione di linea fosse seguita da un’altra uguale (un altro centimetro di
 linea) con ingresso V2 ed uscita V3 allora di conseguenza sarebbe:
+
 
 per le ragioni già viste. Dunque mano a mano che aumenta il numero di centimetri
 frapposti fra l’osservatore (nel punto x) ed il generatore, la tensione e la corrente
@@ -340,11 +371,13 @@ sen(wt – bx)
 
 dove il ritardo di fase vale:
 
+
 ed evidentemente risulta: b = w/vp .
 Vogliamo ora trovare una relazione quantitativa fra la distanza x e l’ampiezza VXM
 del segnale in quel punto, ovvero l’attenuazione di ampiezza.
 Qual è l’espressione matematica dell’ampiezza VXM ? Ossia: quanto vale il modulo
 della tensione VXM in un punto x generico? Risulta la seguente relazione:
+
 
 ovvero una relazione di tipo esponenziale.
 L’andamento della funzione esponenziale y = e-ax dipende da a (costante di
@@ -354,6 +387,8 @@ Se a è grande allora y = e
 -ax decresce velocemente all’aumentare della distanza x
 
 dal generatore (cavo di scarsa qualità);
+
+
 
 se invece a è piccola allora y = e-ax decresce lentamente all’aumentare della
 distanza x dal generatore; se fosse a = 0 allora y = e-ax sarebbe costante e
@@ -386,12 +421,16 @@ Neper/metro mentre il coefficiente b viene chiamato anche coefficiente di
 sfasamento o costante di fase e si esprime in radianti/metro.
 Possiamo sintetizzare quanto sopra scrivendo:
 
+		   
 dove l’esponenziale è un numero complesso caratterizzato dal suo modulo e dalla
 sua fase: ossia indica tanto l’attenuazione che lo sfasamento della tensione nel
 punto x rispetto al punto zero.
 
+
+
 Il coefficiente g (costante di propagazione) contiene in sè entrambe le
 informazioni, essendo:
+
 
 un numero complesso. La sua parte reale a ci informa sulle caratteristiche di
 attenuazione della linea mentre la sua parte immaginaria b ci informa sulle
@@ -415,10 +454,13 @@ frequenza si può approssimare con:
 Se vogliamo indicare l’attenuazione di tensione dell’intera linea intesa come
 numero puro possiamo scrivere:
 
+
+
 dove VLM è l’ampiezza massima della tensione sul carico (Load) e V0M è
 l’ampiezza massima della tensione sul generatore (nel punto zero). In tal caso
 avremo un numero più piccolo di 1 (anche di molto). Oppure potremo scegliere di
 scrivere (specificandolo):
+
 
 ed in tal caso avremo un numero più grande di 1 (anche di molto). Ovviamente
 non potrà mai accadere che l’uscita di una linea abbia ampiezza maggiore rispetto
@@ -426,6 +468,8 @@ all’ingresso.
 Non accade quasi mai che un costruttore di cavi specifichi l’attenuazione di una
 pezzatura (normalmente 50m oppure 100m) con un numero puro. Di solito essa
 viene espressa in unità logaritmiche, ad esempio in Neper :
+
+
 
 dove l’operatore di logaritmo naturale deve intendersi come logaritmo in base “e”
 ovvero in base al cosiddetto numero di Neper, che è irrazionale e vale circa:
@@ -435,20 +479,30 @@ ovvero in base al cosiddetto numero di Neper, che è irrazionale e vale circa:
 Molto più spesso l’attenuazione di tensione di una pezzatura viene espressa in
 deciBel:
 
+
 dove l’operatore di logaritmo decimale — in base 10 — è specificato dal fatto che
 l’iniziale è maiuscola: “Log” e non “log”.
 Si può indicare anche l’attenuazione di potenza di una pezzatura in deciBel:
+
+
 
 sicché una volta che l’attenuazione venga specificata in deciBel, il valore
 numerico ottenuto sarà lo stesso sia che si tratti dell’attenuazione di potenza in
 deciBel AP|dB sia che si tratti dell’attenuazione di tensione AV|dB .
 Infatti la potenza del segnale aumenta o diminuisce con il quadrato della tensione:
 
+
+
 Riguardiamo la figura 5 qui di seguito: vediamo che le cadute di tensione
 longitudinali valgono:
 
+
+
+
 e dunque la caduta resistiva non dipende dalla frequenza del segnale che
 viaggia lungo la linea. Ma conta molto di più il secondo addendo:
+
+
 
 dunque la caduta induttiva peggiora mano a mano che la frequenza del segnale
 aumenta.
@@ -459,10 +513,13 @@ ricordando che l'ammettenza capacitiva vale:
 
 abbiamo che la perdita di corrente capacitiva risulta:
 
+
+
 e dunque la perdita di corrente capacitiva aumenta per segnali di frequenza
 elevata e le sue conseguenze sono particolarmente negative quando si tratta di
 trasmettere segnali in una rete di computer ad alta velocità, volendo trasferire
 grandi quantità di dati in un tempo ridotto.
+
 
 Per quanto sopra, normalmente le aziende produttrici specificano le attenuazioni
 dei loro cavi per diversi valori della frequenza applicata, dato che le perdite
@@ -476,11 +533,15 @@ viene anche rappresentato l’andamento dell’attenuazione di un cavo economico
 ed a basse prestazioni come l’RG58 . Ma data la sua forte attenuazione, il grafico
 riguarda una pezzatura di soli 30 metri.
 
+
+
 Pur su di una lunghezza così limitata abbiamo, per l’economico RG58 alla
 frequenza di 50MHz, una attenuazione dell’ampiezza d’uscita di oltre 3 deciBel
 rispetto all’ingresso. Mentre se la frequenza applicata vale 1.3 GHz allora
 l’attenuazione del segnale sul carico è di circa 20 deciBel rispetto al segnale del
 generatore. Una differenza ancora più grande.
+
+
 
 In senso assoluto se consideriamo la potenza erogata dal generatore e quella in
 arrivo sul carico, ciò significa che di 100W erogati solo 1W arriva sul carico. Dove
@@ -501,6 +562,8 @@ attorcigliati, per motivi che vedremo più avanti.
 Quando si tratta di trasmettere segnali di frequenza elevata la scelta del cavo
 coassiale è in grado di ottenere alte prestazioni ma purtroppo ad un costo ingente.
 La struttura coassiale è riportata nella figura 8.
+
+
 
 Il conduttore centrale viene chiamato anche “polo caldo” e corrisponde al
 segnale vero e proprio. Esso è ricoperto da uno strato di isolante, che viene
@@ -532,6 +595,7 @@ Tanto che attualmente il cavo di rete per le LAN viene
 spesso chiamato cavo Belden anche se ormai il
 brevetto è scaduto ed una miriade di altri fabbricanti
 produce i cavi da impiegare con standard Ethernet.
+
 
 Il cavo coassiale, a causa dei costi ormai non viene più impiegato nelle LAN ma
 solo in applicazioni dove non è rimpiazzabile, come le alte potenze ed altissime

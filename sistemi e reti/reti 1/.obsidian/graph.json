@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": " path:\"Classificazione delle reti per dimensione\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": " path:\"Modelli di comunicazione di base\"",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": " path:\"Comunicazione dei dati\"",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "path:\"Usi delle reti di computer\"",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "path:\"Reti di computer\"",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "file:Network basic",
+      "color": {
+        "a": 1,
+        "rgb": 16448250
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.6535343035343,
+  "lineSizeMultiplier": 2.40738045738046,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 15.2390852390852,
+  "linkStrength": 1,
+  "linkDistance": 259,
+  "scale": 0.0078125,
+  "close": false
+}

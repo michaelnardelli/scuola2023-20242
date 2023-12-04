@@ -14,3 +14,22 @@
 ![[Pasted image 20230914095707.png]]
 ![[Pasted image 20230914095834.png]]
 ![[Pasted image 20230914100036.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

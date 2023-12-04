@@ -2,4 +2,5 @@ scienza
 lat sciens 
 (part pres 
 couli chesa
-lat sicnera )
+lat sicnera )2
+

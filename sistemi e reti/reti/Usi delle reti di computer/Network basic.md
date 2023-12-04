@@ -12,10 +12,10 @@ La rete di computer non significa un sistema con un'unità di controllo collegat
 
 
 
-- ## [[Reti di computer]]
-- ## [[Modelli  di comunicazione di base]]
-- ## [[Usi delle reti di computer]]
-- ## [[Classificazione delle reti per dimensione]]
-- ## [[Comunicazione dei dati]]
+- ## [[sistemi e reti/reti/Reti di computer/Reti di computer]]
+- ## [[sistemi e reti/reti/Modelli di comunicazione di base/Modelli  di comunicazione di base]]
+- ## [[sistemi e reti/reti/Usi delle reti di computer/Usi delle reti di computer]]
+- ## [[sistemi e reti/reti/Classificazione delle reti per dimensione/Classificazione delle reti per dimensione]]
+- ## [[sistemi e reti/reti/Comunicazione dei dati/Comunicazione dei dati]]
 
 

@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a740759a75aef6ae",
+            "id": "e4ad3270c3fb8613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "esponeziali/funzione esponenziale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e50de3a7bc6a835",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "esponeziali/pag 689 es 81.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e874eb27f66fcbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "esponeziali/funzione esponenziale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2340b6809e0bc575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "esponeziali/pag 690  es 83.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd97746c11e7c67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pag 690 es 84.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b44458207735a934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propietà dei logartitmmi.md",
+                "file": "limiti/I limiti.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propietà dei logartitmmi.md",
+                "file": "limiti/I limiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propietà dei logartitmmi.md",
+                "file": "limiti/I limiti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propietà dei logartitmmi.md"
+                "file": "limiti/I limiti.md"
               }
             }
           },
@@ -214,11 +154,19 @@
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "b44458207735a934",
+  "active": "e4ad3270c3fb8613",
   "lastOpenFiles": [
+    "Propietà dei logartitmmi.md",
+    "pag 690 es 84.md",
+    "esponeziali/pag 690  es 83.md",
+    "esponeziali/funzione esponenziale.md",
+    "esponeziali/pag 689 es 81.md",
+    "limiti/I limiti.md",
+    "limiti",
     "1_11_2032 compiti.jpg",
     "1_11_2032 compiti.med",
     "16_10_2023 mate.med",
@@ -231,19 +179,13 @@
     "img/Pasted image 20231013095249.png",
     "img/Pasted image 20231013095022.png",
     "img/Pasted image 20231013094744.png",
-    "pag 690 es 84.md",
-    "Propietà dei logartitmmi.md",
     "09_10_2023 lezione.med",
     "img/Pasted image 20231009084644.png",
-    "esponeziali/pag 690  es 83.md",
-    "img/Pasted image 20231009083508.png",
     "da fare la scaletta.md",
     "disequazione di 2° grado.md",
-    "esponeziali/pag 689 es 81.md",
     "2022-2023/parabola/pag 269 es 185.md",
     "2022-2023/parabola/pag 269 es 178.md",
     "esponeziali/disequzioni esponeziali.md",
-    "esponeziali/funzione esponenziale.md",
     "esponeziali",
     "copilot-conversations/Chat-2023_10_06-10_17_27.md",
     "copilot-conversations",
@@ -255,7 +197,6 @@
     "2022-2023/parabola/come risolvere senza punti.md",
     "2022-2023/parabola/come risolvere con i tre punti.md",
     "2022-2023/parabola/pag 260 es 87.md",
-    "25_09_2023.med",
     "2022-2023/parabola/pag 268 es 172.md",
     "2022-2023/parabola/pag 269 es 188.md",
     "2022-2023/parabola/governo.md",
@@ -263,7 +204,6 @@
     "img/Pasted image 20230912095135.png.md",
     "Compiti estivi/pagina 83 numeri 4, 5.md",
     "Compiti estivi/pagina 220 numeri 1, 2, 3, 5.md",
-    "Compiti estivi/133 numeri 3, 5.md",
-    "2022-2023/equazione-disequzaione gonometrica/Senza nome.md"
+    "Compiti estivi/133 numeri 3, 5.md"
   ]
 }

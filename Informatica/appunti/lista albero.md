@@ -9,7 +9,7 @@
 
 # lista
 
- ![[Pasted image 20231113085923.png]]
+ ![[tipist/Pasted image 20231113085923.png]]
 
 ## tipi di lista
 

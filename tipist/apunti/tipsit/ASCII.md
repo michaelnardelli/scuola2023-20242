@@ -1,15 +1,12 @@
 - massimo 8 bit
-- 0-255
-  - 0=(00000000)
-  - 255=(11111111)
-
+- 0-255 
+	- 0=(00000000)
+	- 255=(11111111)
 ## tabella
-
 ![[asciistd.gif]]
 
-## estensioni
-
+## estensioni 
 - tutti gli stati
-- area geografica
+-  area geografica
 
 sequenza di bit

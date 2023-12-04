@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab/CCNA/tut paket tracer.md",
+                "file": "reti fino a bo.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lab/CCNA/tut paket tracer.md",
+                "file": "reti fino a bo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lab/CCNA/tut paket tracer.md",
+                "file": "reti fino a bo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lab/CCNA/tut paket tracer.md"
+                "file": "reti fino a bo.md"
               }
             }
           }
@@ -229,20 +229,20 @@
   },
   "active": "15b250ae84344456",
   "lastOpenFiles": [
+    "PAgP.md",
+    "LACP.md",
+    "ALU.md",
+    "EtherChannel.md",
+    "lab/CCNA/tut paket tracer.md",
     "Pasted image 20231109093342.png",
     "lab/cose.md",
-    "lab/CCNA/tut paket tracer.md",
     "lab/CCNA/Packet Tracker Resources.md",
     "Senza nome.md",
     "reti fino a bo.md",
-    "LACP.md",
-    "EtherChannel.md",
-    "PAgP.md",
     "().md",
     "Pasted image 20231109091209.png",
     "Pasted image 20231109091150.png",
     "Pasted image 20231109091146.png",
-    "ALU.md",
     "lab/CCNA/11_10_2023.md",
     "RETI 11_10_2023.md",
     "2023-10-25.md",
@@ -265,7 +265,6 @@
     "saves.pkt",
     "img/Pasted image 20230914100036.png",
     "img/Pasted image 20230914095707.png",
-    "img/Pasted image 20230914093846.png",
     "lab/CCNA",
     "reti/Usi delle reti di computer/Network basic.md"
   ]

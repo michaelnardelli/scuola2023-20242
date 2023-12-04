@@ -1,10 +1,10 @@
-1. [[Prestazioni]]
+1. [[sistemi e reti/reti/Reti di computer/Prestazioni]]
 
-2. **[[Affidabilità]]**
+2. **[[sistemi e reti/reti/Reti di computer/Affidabilità]]**
 
-3.  **[[Sicurezza]]**
+3.  **[[sistemi e reti/reti/Reti di computer/Sicurezza]]**
 
-4.  **[[Scalabilità]]**
+4.  **[[sistemi e reti/reti/Reti di computer/Scalabilità]]**
 
    
 

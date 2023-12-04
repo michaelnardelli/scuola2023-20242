@@ -1,4 +1,4 @@
-	
+		
 1) **Prodotto**
 ![[Pasted image 20231013094744.png]]
 se la base del logaritmi e uguale e c'e una **somma** basta utilizzare le proprietà delle potenze 
