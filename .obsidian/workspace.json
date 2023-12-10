@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "a22d31f078d0650d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f1cd6963c327057",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "3c263d2d1e8072c9",
         "type": "tabs",
         "children": [
@@ -69,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 438.5
   },
   "right": {
     "id": "a769d7a9af2240f9",
@@ -129,7 +145,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,35 +167,43 @@
   "lastOpenFiles": [
     "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
-    "Telecomunicazioni/2023-2024/Analisi spetrale/DSB–SC modulation.md",
-    "tipist/Pasted image 20231113085923.png",
-    "tipist/Pasted image 20231128083744.png",
-    "tipist/Pasted image 20231128084047.png",
-    "ita-storia/g parini.md",
-    "tipist/gestioni risorse.md",
-    "Telecomunicazioni/2023-2024/Analisi spetrale/trasdutore.md",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation",
-    "Telecomunicazioni/2023-2024/Analisi spetrale/segnale.md",
-    "tipist/scalletta verifica.md",
+    "img/Pasted image 20231210111148.png",
+    "img/Pasted image 20231210111109.png",
+    "img/Pasted image 20231210111047.png",
+    "img/Pasted image 20231210110959.png",
+    "img/Pasted image 20231210110832.png",
+    "img/Pasted image 20231210110734.png",
+    "img/Pasted image 20231210110658.png",
+    "tipist/apunti/tipsit/ripasso/asciistd.gif",
+    "img/Pasted image 20231210110349.png",
+    "img/Pasted image 20231210103545.png",
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/IMG",
+    "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "ita-storia/italiano/2023-2024/cittadinanza/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
-    "ita-storia/italiano/2023-2024/cittadinanza",
-    "tipist/Senza nome.md",
-    "ita-storia/Senza nome.md",
-    "ita-storia/qualcosa.md",
-    "ita-storia/le radici culurtali e storice.md",
-    "ita-storia/LA POESIA BAROCCA.md",
-    "ita-storia/ETA' DEL BAROCCO.md",
     "sistemi e reti/reti fino a bo.md",
+    "sistemi e reti/RETI 11_10_2023.md",
     "sistemi e reti/tut paket tracer.md",
+    "sistemi e reti/lab/tut paket tracer.md",
+    "sistemi e reti/lab/cose.md",
+    "sistemi e reti/Senza nome.md",
+    "sistemi e reti/Packet Tracker Resources.md",
+    "sistemi e reti/EtherChannel.md",
+    "sistemi e reti/ALU.md",
+    "tipist/gestioni risorse.md",
     "tipist/apunti/tipsit/TPSIT int.md",
-    "religione/religione/religione.md",
-    "religione/religione/Morale.md",
-    "autonomia/comandi rasspery.md",
-    "autonomia/comnadi rasperry.md",
-    "autonomia/IoT World Forum Reference Model.md",
-    "autonomia/python/come crare un progetto in phyton.md",
-    "autonomia/ssh.md",
-    "Informatica/appunti/lista albero.md",
-    "tipist/apunti/Pasted image 20231113085809.png"
+    "tipist/apunti/tipsit/Proccesi e Processori.md",
+    "tipist/apunti/tipsit/ASCII.md",
+    "tipist/apunti/tipsit/ripasso/ripasso.md",
+    "tipist/apunti/tipsit/ripasso/CODIFICA DEI CARATTERI.md",
+    "README.md",
+    "tipist/Senza nome.md",
+    "tipist/apunti/tipsit/UNICODE.md",
+    "tipist/pratica/LAB.md",
+    "tipist/tipist/How JavaScript’s Asynchronous Operations Work in the Browser.md",
+    "tipist/tipist/All about Promises in JavaScript.md",
+    "tipist/scalletta verifica.md",
+    "Telecomunicazioni/2023-2024/Analisi spetrale/DSB–SC modulation.md",
+    "Telecomunicazioni/2023-2024/DSB–SC modulation",
+    "ita-storia/italiano/2023-2024/cittadinanza"
   ]
 }

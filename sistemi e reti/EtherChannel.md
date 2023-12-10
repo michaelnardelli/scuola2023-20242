@@ -1,4 +1,4 @@
-![[Pasted image 20231109091146.png]]![[Pasted image 20231109091150.png]]
+![[sistemi e reti/Pasted image 20231109091146.png]]![[sistemi e reti/Pasted image 20231109091150.png]]
 ### EtherChannel Negotiation
 
 An EtherChannel can be established using one of three mechanisms:
@@ -8,7 +8,7 @@ An EtherChannel can be established using one of three mechanisms:
 - **Static Persistence ("On")** - No negotiation protocol is used
 
  
-![[Pasted image 20231109091209.png]]
+![[sistemi e reti/Pasted image 20231109091209.png]]
 
 Only a single line is needed to configure a group of ports as an EtherChannel:
 S1(config)# **interface range f0/13 -15**
