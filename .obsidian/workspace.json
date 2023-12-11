@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a22d31f078d0650d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5f1cd6963c327057",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "3c263d2d1e8072c9",
         "type": "tabs",
         "children": [
@@ -165,6 +149,8 @@
   },
   "active": "d28f121f7d40f2f6",
   "lastOpenFiles": [
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/10_12_2023 formule.med",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
     "img/Pasted image 20231210111148.png",
