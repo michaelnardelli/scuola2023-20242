@@ -27,6 +27,7 @@ Quindi, per evitare questa limitazione, si cerca di ottenere un segnale a freque
 ## DSB-TC
 
 La modulazione di ampiezza (AM) è comunemente indicata come DSB-TC (Double Side Band Transmitted Carrier) per evidenziare che nella trasmissione è presente la portante. La DSB-TC è la forma classica di AM.
+**Modulatore a Prodotto**
 ![[Pasted image 20231210104350.png]]
 
 ### Ottenere un Segnale DSB
@@ -88,3 +89,4 @@ Per dimostrare le formule di Werner, dobbiamo dividere entrambi i membri dell'eq
 ![[Pasted image 20231210111148.png]]
 
 Quindi, abbiamo dimostrato che il prodotto di due cosinusoidi può essere rappresentato come la somma di due cosinusoidi. Questo è ciò che si chiama formule di Werner, e dimostra il modo in cui un segnale modulato può essere rappresentato come la somma di due componenti laterali,.
+z
