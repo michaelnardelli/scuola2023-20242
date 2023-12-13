@@ -2,14 +2,14 @@
 (root)(binario)
 
 
-![[tipist/apunti/Pasted image 20231113085809.png]]
+![[img/Pasted image 20231113085809.png]]
 ## tipi diversi
 
 
 
 # lista
 
- ![[tipist/Pasted image 20231113085923.png]]
+ ![[img/Pasted image 20231113085923.png]]
 
 ## tipi di lista
 

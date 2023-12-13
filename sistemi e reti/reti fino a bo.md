@@ -1,5 +1,5 @@
 
- ---****---![[img/img/Senza titolo.png]]![[img/img/Senza titolo.png]] Architettura x86
+ ---****---![[Senza titolo 1.png]]![[Senza titolo 1.png]] Architettura x86
 
   
 
@@ -109,7 +109,7 @@ Modello OSI e TCP/IP
 
   
 
-![[img/img/image.png]]
+![[image 1.png]]
 
   
 
@@ -117,7 +117,7 @@ Modello OSI e TCP/IP
 
   
 
-![[img/img/Pasted image 20231025082401.png]]
+![[Pasted image 20231025082401 1.png]]
 
   
 

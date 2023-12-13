@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d28f121f7d40f2f6",
+            "id": "2cfcd252e15a5233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
+                "file": "matematica/2023-2024/limiti/I limiti.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 439.5
   },
   "right": {
     "id": "a769d7a9af2240f9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
+                "file": "matematica/2023-2024/limiti/I limiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
+                "file": "matematica/2023-2024/limiti/I limiti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md"
+                "file": "matematica/2023-2024/limiti/I limiti.md"
               }
             }
           }
@@ -147,22 +147,29 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "d28f121f7d40f2f6",
+  "active": "2cfcd252e15a5233",
   "lastOpenFiles": [
+    "tipist/apunti/gestioni risorse.md",
+    "tipist/apunti/TPSIT int.md",
+    "tipist/apunti/ripasso/Proccesi e Processori.md",
+    "img/Pasted image 20231003091343.png",
+    "img/Pasted image 20231003091342.png",
+    "img/Pasted image 20230919093411.jpg",
+    "tipist/apunti/ASCII.md",
+    "tipist/apunti/ripasso/ripasso.md",
+    "tipist/apunti/ripasso/CODIFICA DEI CARATTERI.md",
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
+    "img/Planos carteciano.png",
+    "img/Pasted image 20231120081734.png",
+    "img/Pasted image 20231120081729.png",
+    "img/Pasted image 20231120081729 1.png",
+    "img/Pasted image 20231120081727.png",
+    "img/Pasted image 20231120081203.png",
+    "img/Pasted image 20231120081152.png",
+    "ita-storia/italiano/2023-2024/Senza nome.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/10_12_2023 formule.med",
-    "img/Pasted image 20231210111148.png",
-    "img/Pasted image 20231210111109.png",
-    "img/Pasted image 20231210111047.png",
-    "img/Pasted image 20231210110959.png",
-    "img/Pasted image 20231210110832.png",
-    "img/Pasted image 20231210110734.png",
-    "img/Pasted image 20231210110658.png",
-    "tipist/apunti/tipsit/ripasso/asciistd.gif",
-    "img/Pasted image 20231210110349.png",
-    "img/Pasted image 20231210103545.png",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/IMG",
     "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "ita-storia/italiano/2023-2024/cittadinanza/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
@@ -175,20 +182,13 @@
     "sistemi e reti/Packet Tracker Resources.md",
     "sistemi e reti/EtherChannel.md",
     "sistemi e reti/ALU.md",
-    "tipist/gestioni risorse.md",
-    "tipist/apunti/tipsit/TPSIT int.md",
-    "tipist/apunti/tipsit/Proccesi e Processori.md",
-    "tipist/apunti/tipsit/ASCII.md",
-    "tipist/apunti/tipsit/ripasso/ripasso.md",
-    "tipist/apunti/tipsit/ripasso/CODIFICA DEI CARATTERI.md",
     "README.md",
-    "tipist/Senza nome.md",
-    "tipist/apunti/tipsit/UNICODE.md",
+    "tipist/apunti/ripasso/Senza nome.md",
+    "tipist/apunti/UNICODE.md",
     "tipist/pratica/LAB.md",
     "tipist/tipist/How JavaScript’s Asynchronous Operations Work in the Browser.md",
     "tipist/tipist/All about Promises in JavaScript.md",
-    "tipist/scalletta verifica.md",
-    "Telecomunicazioni/2023-2024/Analisi spetrale/DSB–SC modulation.md",
+    "tipist/apunti/ripasso/scalletta verifica.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation",
     "ita-storia/italiano/2023-2024/cittadinanza"
   ]
