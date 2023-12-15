@@ -82,7 +82,7 @@ Le formule di Werner dimostrano come il prodotto di due cosinusoidi possa essere
   ![[Pasted image 20231214110107.png]]
   Partendo dalle formule di addizione per il coseno:
 ![[Pasted image 20231210111047.png]]
- 
+
 Sommando le due equazioni otteniamo:
 
 ![[Pasted image 20231210111109.png]]
