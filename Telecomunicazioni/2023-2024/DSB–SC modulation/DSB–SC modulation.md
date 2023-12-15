@@ -78,9 +78,11 @@ Ad esempio, con ![[Pasted image 20231210110658.png]], si ottiene![[Pasted image 
 ## Dimostrazione delle Formule di Werner
 
 Le formule di Werner dimostrano come il prodotto di due cosinusoidi possa essere sviluppato nella somma di due cosinusoidi
-![[Pasted image 20231210110959.png]]Partendo dalle formule di addizione per il coseno:
+![[Pasted image 20231210110959.png]]
+  ![[Pasted image 20231214110107.png]]
+  Partendo dalle formule di addizione per il coseno:
 ![[Pasted image 20231210111047.png]]
-
+ 
 Sommando le due equazioni otteniamo:
 
 ![[Pasted image 20231210111109.png]]
@@ -89,4 +91,3 @@ Per dimostrare le formule di Werner, dobbiamo dividere entrambi i membri dell'eq
 ![[Pasted image 20231210111148.png]]
 
 Quindi, abbiamo dimostrato che il prodotto di due cosinusoidi può essere rappresentato come la somma di due cosinusoidi. Questo è ciò che si chiama formule di Werner, e dimostra il modo in cui un segnale modulato può essere rappresentato come la somma di due componenti laterali,.
-z

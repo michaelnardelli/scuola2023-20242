@@ -4,7 +4,7 @@ La Legge n. 80 del marzo 1898 sulla prevenzione degli infortuni sul lavoro è st
 
 La legge si suddivideva in quattro titoli:
 
-1. **Limiti ed Applicazioni della Legge:** Questo titolo enumerava le industrie alle quali la legge doveva essere applicata, definendo chi doveva qualificarsi come "operai". La qualifica dipendeva dal luogo di lavoro (fuori dalla propria abitazione e in specifiche industrie), dal tipo di mansione svolta e dalla misura della mercede percepita. L'obbligo assicurativo includeva coloro che partecipavano manualmente al lavoro e chi sovraintendeva al lavoro degli altri, purché il salario non superasse le sette lire al giorno. L'assicurazione non copriva i lavoratori agricoli e quelli a domicilio.
+1. **Limiti ed Applicazioni della Legge:** Questo titolo enumerava le industrie alle quali la legge doveva essere applicata, definendo chi doveva qualificarsi come "operai". La qualifica dipendeva dal luogo di lavoro (fuori dalla propria abitazione e in specifiche industrie), dal tipo di mansione svolta e dalla misura della me rcede percepita. L'obbligo assicurativo includeva coloro che partecipavano manualmente al lavoro e chi sovraintendeva al lavoro degli altri, purché il salario non superasse le sette lire al giorno. L'assicurazione non copriva i lavoratori agricoli e quelli a domicilio.
     
 2. **Regolamenti Preventivi:** Questo titolo stabiliva disposizioni relative alle misure da adottarsi per la prevenzione degli infortuni.
     

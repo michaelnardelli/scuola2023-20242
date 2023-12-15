@@ -216,12 +216,37 @@ il comando ping si utiliza il pakketo
 
 fa una echo recuest
 
+# IANA (Internet Assigned Numbers Authority)
+- **Definizione:**
+    
+    - IANA, acronimo di Internet Assigned Numbers Authority, è un'organizzazione che gestisce le risorse numeriche assegnate nell'ambito di Internet, come gli indirizzi IP e i numeri di protocollo.
+- **Ruoli Principali:**
+    
+    - Assegna e gestisce gli spazi di indirizzi IP, sia IPv4 che IPv6, garantendo che siano utilizzati in modo coerente e efficiente.
+- **CCITT (Comité Consultatif International Téléphonique et Télégraphique) --> ITU-T (International Telecommunication Union - Telecommunication Standardization Sector):**
+    
+    - La CCITT è stata rinominata ITU-T ed è una delle tre principali divisioni dell'ITU (International Telecommunication Union). Si occupa della standardizzazione nel campo delle telecomunicazioni. Il passaggio da CCITT a ITU-T sottolinea l'evoluzione e l'espansione delle responsabilità verso le nuove tecnologie.
+- **CCIR (Comité Consultatif International pour la Radio) --> ITU-R (International Telecommunication Union - Radiocommunication Sector):**
+    
+    - La CCIR è stata rinominata ITU-R ed è un'altra delle divisioni dell'ITU. Si concentra sulla standardizzazione nel campo delle radiocomunicazioni. Questo cambiamento di nome riflette l'aggiornamento delle sue funzioni e il suo adattamento alle tecnologie emergenti.
+- **IETF (Internet Engineering Task Force):**
+    
+    - L'IETF è un'organizzazione che si occupa dello sviluppo e della promozione di standard Internet, tra cui protocolli, procedure e linee guida. Contrariamente alle divisioni dell'ITU, l'IETF è un'organizzazione più informale, composta da volontari tecnici provenienti da tutto il mondo.
 
+### DNS (Domain Name System)
 
-# IANA 
-## CCITT-->ITU-T
-## CCIR --> ITU-R
-# IETF 
-
-
-# DNS 
+- **Definizione:**
+    
+    - Il DNS, acronimo di Domain Name System, è un sistema gerarchico di traduzione degli indirizzi IP in nomi di dominio e viceversa, facilitando la navigazione e l'accesso alle risorse su Internet.
+- **Funzionamento:**
+    
+    - Traduce nomi di dominio comprensibili per gli utenti in indirizzi IP utilizzati dai dispositivi di rete per identificarsi reciprocamente.
+- **Struttura Hierarchica:**
+    
+    - Il DNS è organizzato in una struttura gerarchica con al vertice il root domain, seguito dai top-level domain (TLD) come .com, .org, .net, e poi dai domain names specifici.
+- **Risolvere Nomi in Indirizzi IP:**
+    
+    - Quando si inserisce un nome di dominio nel browser, il sistema DNS converte il nome in un indirizzo IP, consentendo al dispositivo di connettersi al server desiderato.
+- **Record DNS:**
+    
+    - Contiene informazioni come indirizzi IP associati a un dominio (record A), informazioni sulle mail server (record MX), e altri dettagli cruciali per la gestione del traffico Internet.
