@@ -82,42 +82,43 @@ Sostituendo \( x = 2 \):
 
 In questo caso, abbiamo ottenuto una forma indeterminata \( \frac{-6}{0} \), e potrebbe essere necessario applicare ulteriori tecniche o analisi per determinare il limite.
 
-
 # Appunti sui Limiti Notevoli
 
-I limiti notevoli sono concetti fondamentali nell'ambito del calcolo infinitesimale e della teoria dei limiti. Essi forniscono metodi standardizzati per determinare il comportamento di una funzione quando la variabile indipendente si avvicina a determinati valori. Di seguito sono riportati alcuni limiti notevoli comuni:
+I limiti notevoli sono concetti fondamentali nell'ambito del calcolo infinitesimale e della teoria dei limiti. Essi forniscono
 
-## 1. Limite Fondamentale:
+metodi standardizzati per determinare il comportamento di una funzione quando la variabile indipendente si avvicina a determinati valori. Di seguito sono riportati alcuni limiti notevoli comuni:
+
+## 1. Limite Fondamentale
 
 lim⁡�→0sin⁡��=1x→0lim​xsinx​=1
 
 Questo limite è di fondamentale importanza e trova ampio utilizzo nelle dimostrazioni e nelle derivate di funzioni trigonometriche.
 
-## 2. Limite dell'Esponenziale:
+## 2. Limite dell'Esponenziale
 
 lim⁡�→0(1+�)1�=�x→0lim​(1+x)x1​=e
 
 Dove �e è la costante di Nepero. Questo limite è alla base della definizione di �e e della funzione esponenziale.
 
-## 3. Limite della Funzione Logaritmica:
+## 3. Limite della Funzione Logaritmica
 
 lim⁡�→0log⁡(1+�)�=1x→0lim​xlog(1+x)​=1
 
 Questo limite è correlato al limite dell'esponenziale e gioca un ruolo chiave nella derivazione della funzione logaritmica.
 
-## 4. Limite della Tangente Iperbolica:
+## 4. Limite della Tangente Iperbolica
 
 lim⁡�→0tanh⁡��=1x→0lim​xtanhx​=1
 
 Questo limite è utile nelle analisi che coinvolgono funzioni iperboliche.
 
-## 5. Limite del Seno Iperbolico:
+## 5. Limite del Seno Iperbolico
 
 lim⁡�→0sinh⁡��=1x→0lim​xsinhx​=1
 
 Analogamente al limite del seno trigonometrico, questo è specifico per la funzione seno iperbolico.
 
-## 6. Limite del Prodotto:
+## 6. Limite del Prodotto
 
 Se lim⁡�→��(�)=�limx→a​f(x)=L e lim⁡�→��(�)=�limx→a​g(x)=M, allora:
 
@@ -125,22 +126,8 @@ lim⁡�→�(�(�)⋅�(�))=�⋅�x→alim​(f(x)⋅g(x))=L⋅M
 
 Questo principio si estende anche al quoziente di funzioni quando �≠0M=0.
 
-## 7. Limite della Funzione Esponenziale Composta:
+## 7. Limite della Funzione Esponenziale Composta
 
 lim⁡�→���(�)=�lim⁡�→��(�)x→alim​ef(x)=elimx→a​f(x)
 
 Questo principio è utile quando si trattano funzioni esponenziali composte.
-
-
-
-
-
-
-
-
-
-
-
-
-
-

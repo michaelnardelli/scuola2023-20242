@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "matematica/2023-2024/limiti/I limiti.md",
+                "file": "autonomia/python/come crare un progetto in phyton.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 200
   },
   "right": {
     "id": "a769d7a9af2240f9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matematica/2023-2024/limiti/I limiti.md",
+                "file": "autonomia/python/come crare un progetto in phyton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "matematica/2023-2024/limiti/I limiti.md",
+                "file": "autonomia/python/come crare un progetto in phyton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "matematica/2023-2024/limiti/I limiti.md"
+                "file": "autonomia/python/come crare un progetto in phyton.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "2cfcd252e15a5233",
   "lastOpenFiles": [
+    "matematica/2023-2024/limiti/I limiti.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "img/Pasted image 20231214110107.png",
@@ -159,7 +160,6 @@
     "ita-storia/italiano/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
     "sistemi e reti/reti fino a bo.md",
     "sistemi e reti/Packet Tracker Resources.md",
-    "matematica/2023-2024/limiti/I limiti.md",
     "tipist/apunti/gestioni risorse.md",
     "tipist/apunti/TPSIT int.md",
     "tipist/apunti/ripasso/Proccesi e Processori.md",
