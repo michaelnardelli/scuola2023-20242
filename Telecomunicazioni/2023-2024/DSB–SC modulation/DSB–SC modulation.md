@@ -2,7 +2,7 @@
 
 ## La **modulazione**
 
-è un processo attraverso il quale l'informazione contenuta in un segnale informativo, chiamato segnale modulante \(v_m(t)\), viene impressa su un secondo segnale, chiamato portante \(v_p(t)\), che funge da supporto all'informazione. La portante non contiene informazioni in sé, ma serve unicamente a essere modellata dal segnale informativo. Quest'ultimo, non adatto alla trasmissione diretta, deve essere imprevedibile per contenere informazioni.
+è un processo attraverso il quale l'informazione contenuta in un segnale informativo, chiamato segnale modulante , viene impressa su un secondo segnale, chiamato portante \(v_p(t)\), che funge da supporto all'informazione. La portante non contiene informazioni in sé, ma serve unicamente a essere modellata dal segnale informativo. Quest'ultimo, non adatto alla trasmissione diretta, deve essere imprevedibile per contenere informazioni.
 
 Le ipotesi semplificative considerate qui presuppongono che il segnale modulante sia prevedibile, ad esempio, una sinusoide. Queste semplificazioni agevolano l'analisi matematica del problema. La funzione della portante è simile a una tavoletta d'argilla pronta per essere incisa, mentre quella del segnale modulante è come uno stilo maneggiato da uno scrittore che incide sulla tavoletta. Il risultato è il segnale modulato, una tavoletta incisa contenente informazioni.
 

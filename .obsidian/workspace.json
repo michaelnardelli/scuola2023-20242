@@ -11,11 +11,9 @@
             "id": "2cfcd252e15a5233",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "autonomia/python/come crare un progetto in phyton.md",
-                "mode": "source",
-                "source": false
+                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autonomia/python/come crare un progetto in phyton.md",
+                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "autonomia/python/come crare un progetto in phyton.md",
+                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "autonomia/python/come crare un progetto in phyton.md"
+                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf"
               }
             }
           }
@@ -149,16 +147,22 @@
   },
   "active": "2cfcd252e15a5233",
   "lastOpenFiles": [
-    "matematica/2023-2024/limiti/I limiti.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
+    "sistemi e reti/lab/VLAN.md",
+    "ita-storia/italiano/2023-2024/cittadinanza/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
+    "ita-storia/italiano/2023-2024/Senza nome.md",
+    "sistemi e reti/reti fino a bo.md",
+    "sistemi e reti/Senza nome.md",
+    "sistemi e reti/ALU.md",
+    "autonomia/python/come crare un progetto in phyton.md",
+    "matematica/2023-2024/limiti/I limiti.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "img/Pasted image 20231214110107.png",
     "img/Pasted image 20231214110103.png",
     "img/Pasted image 20231214110102.png",
     "img/Pasted image 20231214110101.png",
-    "ita-storia/italiano/2023-2024/cittadinanza/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
     "ita-storia/italiano/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
-    "sistemi e reti/reti fino a bo.md",
     "sistemi e reti/Packet Tracker Resources.md",
     "tipist/apunti/gestioni risorse.md",
     "tipist/apunti/TPSIT int.md",
@@ -172,8 +176,6 @@
     "img/Planos carteciano.png",
     "img/Pasted image 20231120081734.png",
     "img/Pasted image 20231120081729.png",
-    "ita-storia/italiano/2023-2024/Senza nome.md",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/10_12_2023 formule.med",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/IMG",
     "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf",
@@ -181,14 +183,10 @@
     "sistemi e reti/tut paket tracer.md",
     "sistemi e reti/lab/tut paket tracer.md",
     "sistemi e reti/lab/cose.md",
-    "sistemi e reti/Senza nome.md",
     "sistemi e reti/EtherChannel.md",
-    "sistemi e reti/ALU.md",
     "README.md",
     "tipist/apunti/ripasso/Senza nome.md",
     "tipist/apunti/UNICODE.md",
-    "tipist/pratica/LAB.md",
-    "tipist/tipist/How JavaScript’s Asynchronous Operations Work in the Browser.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation",
     "ita-storia/italiano/2023-2024/cittadinanza"
   ]
