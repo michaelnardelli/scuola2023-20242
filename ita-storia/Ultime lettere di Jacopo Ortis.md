@@ -29,4 +29,4 @@ Alderani, che riceve le lettere e che è un narratore esterno e onnisciente. Due
 sono quindi i punti di vista: uno interno e l'altro esterno. La prosa si presenta,
 quindi, molto variegata. La natura emotiva della struttura epistolare fa sì che il
 tempo della storia e il tempo del racconto, non coincidano. Il linguaggio è sia
-ricercato sia comune.
+	ricercato sia comune.
