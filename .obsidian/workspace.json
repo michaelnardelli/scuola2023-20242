@@ -8,16 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cfcd252e15a5233",
+            "id": "947eb0f18f5e9236",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf"
+                "file": "ita-storia/Ugo Foscolo (1778-1827).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b65d1566e8d80a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ita-storia/Ultime lettere di Jacopo Ortis.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
+                "file": "ita-storia/Ultime lettere di Jacopo Ortis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
+                "file": "ita-storia/Ultime lettere di Jacopo Ortis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf"
+                "file": "ita-storia/Ultime lettere di Jacopo Ortis.md"
               }
             }
           }
@@ -145,48 +160,50 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "2cfcd252e15a5233",
+  "active": "83526c6744f1b545",
   "lastOpenFiles": [
+    "ita-storia/Ugo Foscolo (1778-1827).md",
+    "ita-storia/Ultime lettere di Jacopo Ortis.md",
+    "sistemi e reti/reti/Incapsulamento (Networking).md",
+    "tipist/apunti/gestioni risorse.md",
+    "tipist/apunti/UNICODE.md",
+    "tipist/apunti/TPSIT int.md",
+    "ita-storia/storia/2023-2024/Seicento/ASSOLUTISMO E COSTITUZIONALISMO.md",
+    "ita-storia/storia/2023-2024/700/rivoluzone industiale.md",
+    "ita-storia/qualcosa.md",
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
+    "ita-storia/storia/2023-2024/Seicento/Il SEICENTO.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
+    "ita-storia/storia/2023-2024/700",
+    "README.md",
+    "ita-storia/le radici culurtali e storice.md",
+    "Senza nome.md",
+    "img/grafo di holt.jpeg",
+    "ita-storia/italiano/2023-2024/Foscolo.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
     "sistemi e reti/lab/VLAN.md",
     "ita-storia/italiano/2023-2024/cittadinanza/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
-    "ita-storia/italiano/2023-2024/Senza nome.md",
     "sistemi e reti/reti fino a bo.md",
     "sistemi e reti/Senza nome.md",
     "sistemi e reti/ALU.md",
     "autonomia/python/come crare un progetto in phyton.md",
     "matematica/2023-2024/limiti/I limiti.md",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "img/Pasted image 20231214110107.png",
     "img/Pasted image 20231214110103.png",
     "img/Pasted image 20231214110102.png",
     "img/Pasted image 20231214110101.png",
     "ita-storia/italiano/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
     "sistemi e reti/Packet Tracker Resources.md",
-    "tipist/apunti/gestioni risorse.md",
-    "tipist/apunti/TPSIT int.md",
     "tipist/apunti/ripasso/Proccesi e Processori.md",
     "img/Pasted image 20231003091343.png",
     "img/Pasted image 20231003091342.png",
     "img/Pasted image 20230919093411.jpg",
     "tipist/apunti/ASCII.md",
-    "tipist/apunti/ripasso/ripasso.md",
-    "tipist/apunti/ripasso/CODIFICA DEI CARATTERI.md",
     "img/Planos carteciano.png",
     "img/Pasted image 20231120081734.png",
-    "img/Pasted image 20231120081729.png",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/10_12_2023 formule.med",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/IMG",
     "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf",
-    "sistemi e reti/RETI 11_10_2023.md",
-    "sistemi e reti/tut paket tracer.md",
-    "sistemi e reti/lab/tut paket tracer.md",
-    "sistemi e reti/lab/cose.md",
-    "sistemi e reti/EtherChannel.md",
-    "README.md",
-    "tipist/apunti/ripasso/Senza nome.md",
-    "tipist/apunti/UNICODE.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation",
     "ita-storia/italiano/2023-2024/cittadinanza"
   ]

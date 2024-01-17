@@ -41,5 +41,18 @@ Una delle sfide principali per il sistema operativo è assicurare che ogni proce
 
 # grafo di holt
 
- - descrive l'assegazione delle risorse aai processi 
+ - descrive l'assegazione delle risorse ai processi 
  - assegazionr/riciesta risorsa
+
+
+
+
+![[grafo di holt.jpeg]]
+
+## riduzione del garfo
+R1 puo essere asegnata ad p3 
+P1 a sottificado le richieste e puo passare dopo 
+
+# asegnaizone delle risose 
+1) statica--> alla creazione del processo(aree di memorizzazione /descrittori )
+2) dinamica -->
