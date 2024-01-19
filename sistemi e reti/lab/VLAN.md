@@ -11,5 +11,4 @@ Una VLAN è una rete logica creata all'interno di una rete fisica, consentendo l
 - **Flessibilità:** Possibilità di modificare la topologia della rete facilmente.
 
 
-## 3. come si struttra la conessione 
-in
+## 3. come si struttura la connessione 
