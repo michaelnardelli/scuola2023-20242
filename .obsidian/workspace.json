@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "3c263d2d1e8072c9",
+        "id": "761d4d8eec2ab557",
         "type": "tabs",
         "children": [
           {
-            "id": "947eb0f18f5e9236",
+            "id": "90e62a5e7230b564",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf"
+                "file": "tipist/apunti/gestioni risorse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff017215f52d51b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Zacinto.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
+                "file": "tipist/apunti/gestioni risorse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
+                "file": "tipist/apunti/gestioni risorse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf"
+                "file": "tipist/apunti/gestioni risorse.md"
               }
             }
           }
@@ -145,30 +159,31 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "947eb0f18f5e9236",
+  "active": "90e62a5e7230b564",
   "lastOpenFiles": [
+    "A Zacinto.md",
+    "tipist/apunti/gestioni risorse.md",
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
+    "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
+    "img/Pasted image 20240122090510.jpg",
     "ita-storia/italiano/Ugo Foscolo (1778-1827).md",
     "sistemi e reti/lab/VLAN.md",
-    "Senza nome.md",
     "ita-storia/qualcosa.md",
     "ita-storia/italiano/Ultime lettere di Jacopo Ortis.md",
-    "Senza nome 1.md",
     "ita-storia/storia/1084--codice civile.md",
     "sistemi e reti/reti/Incapsulamento (Networking).md",
-    "tipist/apunti/gestioni risorse.md",
     "tipist/apunti/UNICODE.md",
-    "tipist/apunti/TPSIT int.md",
+    "tipist/apunti/ripasso/TPSIT int.md",
     "ita-storia/storia/2023-2024/Seicento/ASSOLUTISMO E COSTITUZIONALISMO.md",
     "ita-storia/storia/2023-2024/700/rivoluzone industiale.md",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "ita-storia/storia/2023-2024/Seicento/Il SEICENTO.md",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
     "ita-storia/storia/2023-2024/700",
     "README.md",
     "ita-storia/storia/le radici culurtali e storice.md",
     "img/grafo di holt.jpeg",
     "ita-storia/italiano/2023-2024/Foscolo.md",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
     "ita-storia/italiano/2023-2024/cittadinanza/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
     "sistemi e reti/reti fino a bo.md",
     "sistemi e reti/Senza nome.md",
@@ -180,12 +195,10 @@
     "img/Pasted image 20231214110102.png",
     "img/Pasted image 20231214110101.png",
     "ita-storia/italiano/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
-    "sistemi e reti/Packet Tracker Resources.md",
     "img/Pasted image 20231003091343.png",
     "img/Pasted image 20231003091342.png",
     "img/Pasted image 20230919093411.jpg",
     "img/Planos carteciano.png",
-    "img/Pasted image 20231120081734.png",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/10_12_2023 formule.med",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/IMG",
     "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf",

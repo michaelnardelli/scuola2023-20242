@@ -55,4 +55,4 @@ P1 a sottificado le richieste e puo passare dopo
 
 # asegnaizone delle risose 
 1) statica--> alla creazione del processo(aree di memorizzazione /descrittori )
-2) dinamica -->
+2) dinamica -->il processo richiede risorse aggiuntive o vuole liberare risorse che non sono più necessarie

@@ -1,0 +1,7 @@
+1. 
+Il testo descrive un incontro tra l'autore e Jean-Jacques Rousseau. Quando l'autore arriva al quarto piano dell'albergo indicato, è accolto dalla moglie di Rousseau, che sembra essere la sua cameriera. Rousseau è occupato a copiare della musica, e l'autore si sente disorientato nel vedere un celebre letterato svolgere un compito così umile. Dopo un breve scambio, Rousseau difende la sua passione per la musica e il suo lavoro di copista.
+
+L'autore, incapace di nascondere il suo stupore, alla fine confessa a Rousseau la sua delusione nel vedere una figura così illustre dedicarsi a un compito così modesto. Rousseau, però, difende la sua scelta e critica l'autore per il suo lavoro con i comici italiani, sostenendo che la sua commedia potrebbe non essere accettata o rappresentata.
+
+L'autore sostiene di avere una commedia in francese accettata alla Commedia Francese, ma Rousseau è scettico e lo invita a fargli leggere il manoscritto. L'autore accetta di farlo, desiderando vedere se Rousseau cambierà la sua opinione dopo la lettura della sua opera.
+2. viene descritto come una persona che sta copiando della musica, un'attività che può sembrare umile e inusuale per un celebre filosofo e scrittore come lui. Tuttavia, Rousseau difende la sua passione per la musica e il suo lavoro di copista, mostrando un atteggiamento aperto, amichevole e sicuro delle sue scelte.

@@ -91,4 +91,6 @@ Per dimostrare le formule di Werner, dobbiamo dividere entrambi i membri dell'eq
 ![[Pasted image 20231210111148.png]]
 
 Quindi, abbiamo dimostrato che il prodotto di due cosinusoidi può essere rappresentato come la somma di due cosinusoidi. Questo è ciò che si chiama formule di Werner, e dimostra il modo in cui un segnale modulato può essere rappresentato come la somma di due componenti laterali,.
- 
+
+
+Vgamma=
