@@ -12,3 +12,28 @@ Una VLAN è una rete logica creata all'interno di una rete fisica, consentendo l
 
 
 ## 3. come si struttura la connessione 
+## 4. numero
+-=4092
+
+# esempio di tabella 
++--------+--------------+----------------------+------------------+
+| Numero | Nome VLAN    | Descrizione         | Indirizzo IP     |
++--------+--------------+----------------------+------------------+
+| 10     | Sales        | Reparto Vendite      | 192.168.10.1     |
+| 20     | Marketing    | Reparto Marketing    | 192.168.20.1     |
+| 30     | IT           | Reparto IT           | 192.168.30.1     |
+| 40     | Guest        | Ospiti               | 192.168.40.1     |
++--------+--------------+----------------------+------------------+
+
+
+
+# comando per farli
+Router>enable
+Router#vlan database
+% Warning: It is recommended to configure VLAN from config mode,
+as VLAN database mode is being deprecated. Please consult user
+documentation for configuring VTP/VLAN in config mode.
+Router(vlan)#vlan 10 name palazina
+VLAN 10 modified:
+Name: palazina
+N

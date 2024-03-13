@@ -30,5 +30,23 @@ se le operazioni non sono svolte in muta esclusione il risultato  finale non por
 
 
 
+x++;(java)
+assembly
+{
+1. lettura x ram-->
+2. inex(alu)
+3. scrututa x inex cpu-->ram
+}
+ il processo lo si può interrompere 
+## sezione critica
+### gestione sezione critica
+- interuzione
+- semafori
+	- spinlokc=boleani=brinari
+	- interi=valori inreri
+<disabilita interna>
+Sc
+<riabil inerna>
+
 
 

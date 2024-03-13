@@ -4,34 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "761d4d8eec2ab557",
+        "id": "6adf2e82fc39e8cf",
         "type": "tabs",
         "children": [
           {
-            "id": "90e62a5e7230b564",
+            "id": "82f240b023b4c3bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tipist/apunti/gestioni risorse.md",
+                "file": "Ripasso romanticismo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff017215f52d51b2",
+            "id": "be3a43a2f8d1f8a2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf"
+              }
+            }
+          },
+          {
+            "id": "3ae65b7e64ae0a9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Zacinto.md",
+                "file": "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tipist/apunti/gestioni risorse.md",
+                "file": "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tipist/apunti/gestioni risorse.md",
+                "file": "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tipist/apunti/gestioni risorse.md"
+                "file": "Informatica/appunti/ALBERO BINARIO DI RICERCA.md"
               }
             }
           }
@@ -146,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,50 +169,53 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "90e62a5e7230b564",
+  "active": "3ae65b7e64ae0a9d",
   "lastOpenFiles": [
-    "A Zacinto.md",
+    "Informatica/appunti/WRAPPER CLASSES.md",
+    "Informatica/appunti/lista albero.md",
+    "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
+    "tipist/apunti/risorse + concorezza.md",
+    "matematica/12_03_2024 derivate.med",
     "tipist/apunti/gestioni risorse.md",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.md",
+    "Ripasso romanticismo.md",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
+    "Gestione delle Risorse e Concorrenza.md",
+    "DATABASE.md",
+    "matematica/Funzioni composte esponenziale e logaritmi.md",
+    "matematica/dervate composte.md",
+    "Reti lab 29_02_2024.md",
+    "img/dns.png",
+    "img/DHCP.png",
+    "matematica/2023-2024/rippaso/Derivate.md",
+    "matematica/27_02_2024.med",
+    "img/Pasted image 20240227100532.png",
+    "img/Pasted image 20240227095418.png",
+    "img/Pasted image 20240227095417.png",
+    "img/Pasted image 20240227095415.png",
+    "img/Pasted image 20240227095235.png",
+    "img/Pasted image 20240227094654.png",
+    "matematica/2023-2024/rippaso/Derivata.md",
+    "matematica/2023-2024/rippaso/equazione.md",
+    "matematica/2023-2024/rippaso/Dominio.md",
+    "matematica/2023-2024/rippaso/Valori agli estremi degli intervalli del dominio.md",
+    "matematica/2023-2024/rippaso/Segno della funziona.md",
+    "matematica/2023-2024/rippaso/Simmetria.md",
+    "matematica/2023-2024/limiti/casi bo.md",
+    "matematica/2023-2024/rippaso/Ripasso.md",
+    "matematica/2023-2024/rippaso/Regole per Determinare il Dominio delle Funzioni.md",
+    "tipist/apunti/TPSIT int.md",
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/240130_introduzione a _AM Amplitude Modulation_.pdf",
+    "matematica/26_02_2024 derivate.med",
+    "img/Pasted image 20240226082208.png",
+    "img/Pasted image 20240226082207.png",
+    "matematica/2023-2024/esponeziali/pag 690 es 84.md",
+    "sistemi e reti/lab/VLAN.md",
+    "sistemi e reti/SVI.md",
+    "sistemi e reti/lab/tut paket tracer.md",
+    "matematica/19_02_2024 derivate.med",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
-    "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
-    "img/Pasted image 20240122090510.jpg",
-    "ita-storia/italiano/Ugo Foscolo (1778-1827).md",
-    "sistemi e reti/lab/VLAN.md",
-    "ita-storia/qualcosa.md",
-    "ita-storia/italiano/Ultime lettere di Jacopo Ortis.md",
-    "ita-storia/storia/1084--codice civile.md",
-    "sistemi e reti/reti/Incapsulamento (Networking).md",
-    "tipist/apunti/UNICODE.md",
-    "tipist/apunti/ripasso/TPSIT int.md",
-    "ita-storia/storia/2023-2024/Seicento/ASSOLUTISMO E COSTITUZIONALISMO.md",
-    "ita-storia/storia/2023-2024/700/rivoluzone industiale.md",
-    "ita-storia/storia/2023-2024/Seicento/Il SEICENTO.md",
     "ita-storia/storia/2023-2024/700",
-    "README.md",
-    "ita-storia/storia/le radici culurtali e storice.md",
-    "img/grafo di holt.jpeg",
-    "ita-storia/italiano/2023-2024/Foscolo.md",
-    "ita-storia/italiano/2023-2024/cittadinanza/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
-    "sistemi e reti/reti fino a bo.md",
-    "sistemi e reti/Senza nome.md",
-    "sistemi e reti/ALU.md",
-    "autonomia/python/come crare un progetto in phyton.md",
-    "matematica/2023-2024/limiti/I limiti.md",
-    "img/Pasted image 20231214110107.png",
-    "img/Pasted image 20231214110103.png",
-    "img/Pasted image 20231214110102.png",
-    "img/Pasted image 20231214110101.png",
-    "ita-storia/italiano/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
-    "img/Pasted image 20231003091343.png",
-    "img/Pasted image 20231003091342.png",
-    "img/Pasted image 20230919093411.jpg",
-    "img/Planos carteciano.png",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/10_12_2023 formule.med",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/IMG",
-    "Telecomunicazioni/2023-2024/231123_introduzione a _AM Amplitude Modulation_.pdf",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation",
-    "ita-storia/italiano/2023-2024/cittadinanza"
+    "Telecomunicazioni/2023-2024/DSB–SC modulation/10_12_2023 formule.med"
   ]
 }
