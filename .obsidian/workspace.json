@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82f240b023b4c3bb",
+            "id": "5c7ec0e6e5ded4fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ripasso romanticismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be3a43a2f8d1f8a2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf"
-              }
-            }
-          },
-          {
-            "id": "3ae65b7e64ae0a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
+                "file": "sistemi e reti/RIPASSO RETI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
+                "file": "sistemi e reti/RIPASSO RETI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
+                "file": "sistemi e reti/RIPASSO RETI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/appunti/ALBERO BINARIO DI RICERCA.md"
+                "file": "sistemi e reti/RIPASSO RETI.md"
               }
             }
           }
@@ -169,21 +146,25 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "3ae65b7e64ae0a9d",
+  "active": "83526c6744f1b545",
   "lastOpenFiles": [
+    "ita-storia/Ripasso romanticismo.md",
+    "Senza nome.md",
+    "sistemi e reti/RIPASSO RETI.md",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/Introduzione alla Modulazione di Frequenza.md",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
+    "tipist/Gestione delle Risorse e Concorrenza.md",
+    "Informatica/DATABASE.md",
+    "matematica/15_03_2024 derivate.med",
+    "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
     "Informatica/appunti/WRAPPER CLASSES.md",
     "Informatica/appunti/lista albero.md",
-    "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
     "tipist/apunti/risorse + concorezza.md",
     "matematica/12_03_2024 derivate.med",
     "tipist/apunti/gestioni risorse.md",
-    "Ripasso romanticismo.md",
-    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
-    "Gestione delle Risorse e Concorrenza.md",
-    "DATABASE.md",
     "matematica/Funzioni composte esponenziale e logaritmi.md",
     "matematica/dervate composte.md",
-    "Reti lab 29_02_2024.md",
+    "sistemi e reti/Reti lab 29_02_2024.md",
     "img/dns.png",
     "img/DHCP.png",
     "matematica/2023-2024/rippaso/Derivate.md",
@@ -209,13 +190,9 @@
     "img/Pasted image 20240226082208.png",
     "img/Pasted image 20240226082207.png",
     "matematica/2023-2024/esponeziali/pag 690 es 84.md",
-    "sistemi e reti/lab/VLAN.md",
-    "sistemi e reti/SVI.md",
-    "sistemi e reti/lab/tut paket tracer.md",
     "matematica/19_02_2024 derivate.med",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",
-    "ita-storia/storia/2023-2024/700",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/10_12_2023 formule.med"
+    "ita-storia/storia/2023-2024/700"
   ]
 }
