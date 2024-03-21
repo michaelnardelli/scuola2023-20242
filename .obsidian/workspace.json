@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6adf2e82fc39e8cf",
+        "id": "5e3fc323190d3ddc",
         "type": "tabs",
         "children": [
           {
-            "id": "5c7ec0e6e5ded4fb",
+            "id": "6989e0e5a0d2dd82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sistemi e reti/RIPASSO RETI.md",
+                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4a555b04970bd372",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f23fa94c7c1d494d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf"
               }
             }
           }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sistemi e reti/RIPASSO RETI.md",
+                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sistemi e reti/RIPASSO RETI.md",
+                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sistemi e reti/RIPASSO RETI.md"
+                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md"
               }
             }
           }
@@ -134,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +163,25 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "5c7ec0e6e5ded4fb",
+  "active": "6989e0e5a0d2dd82",
   "lastOpenFiles": [
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/21_03_2024 tele.med",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
+    "img/Pasted image 20240321110608.png",
+    "img/Pasted image 20240321110501.png",
+    "img/Pasted image 20240321110417.png",
+    "img/Pasted image 20240321110405.png",
+    "img/Pasted image 20240321110404.png",
+    "img/Pasted image 20240321110104.png",
+    "img/Pasted image 20240321105730.png",
+    "img/Pasted image 20240321105704.png",
+    "img/Pasted image 20240321105553.png",
+    "img/Pasted image 20240321105425.png",
+    "ita-storia/Esercizio 5 maggio.md",
+    "Informatica/appunti/Classe astratta vs interfaccia.md",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/Introduzione alla Modulazione di Frequenza.md",
+    "sistemi e reti/RIPASSO RETI.md",
     "ita-storia/italiano/Ripasso romanticismo.md",
     "ita-storia/italiano/qualcosa.md",
     "ita-storia/italiano/passato presente die.md",
@@ -155,10 +189,6 @@
     "ita-storia/italiano/Alla sera(ugolo Foscolo).md",
     "ita-storia/italiano/A Zacinto.md",
     "ita-storia/Ripasso romanticismo.md",
-    "Senza nome.md",
-    "sistemi e reti/RIPASSO RETI.md",
-    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/Introduzione alla Modulazione di Frequenza.md",
-    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
     "tipist/Gestione delle Risorse e Concorrenza.md",
     "Informatica/DATABASE.md",
     "matematica/15_03_2024 derivate.med",
@@ -171,25 +201,12 @@
     "matematica/Funzioni composte esponenziale e logaritmi.md",
     "matematica/dervate composte.md",
     "sistemi e reti/Reti lab 29_02_2024.md",
-    "img/dns.png",
-    "img/DHCP.png",
     "matematica/2023-2024/rippaso/Derivate.md",
     "matematica/27_02_2024.med",
-    "img/Pasted image 20240227100532.png",
-    "img/Pasted image 20240227095418.png",
-    "img/Pasted image 20240227095417.png",
-    "img/Pasted image 20240227095415.png",
-    "img/Pasted image 20240227095235.png",
-    "img/Pasted image 20240227094654.png",
     "matematica/2023-2024/rippaso/Derivata.md",
     "matematica/2023-2024/rippaso/equazione.md",
-    "matematica/2023-2024/rippaso/Dominio.md",
-    "matematica/2023-2024/rippaso/Valori agli estremi degli intervalli del dominio.md",
-    "matematica/2023-2024/rippaso/Segno della funziona.md",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/240130_introduzione a _AM Amplitude Modulation_.pdf",
     "matematica/26_02_2024 derivate.med",
-    "img/Pasted image 20240226082208.png",
-    "img/Pasted image 20240226082207.png",
     "matematica/19_02_2024 derivate.med",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf",

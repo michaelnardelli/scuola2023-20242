@@ -69,5 +69,66 @@ TCP/IP has been implemented on virtually every computing platform. A minimal imp
 - **Exploitation**: ICMP can be exploited for attacks like denial-of-service (DoS) attacks.
 - **Deprecation**: Certain ICMP functionalities have been deprecated due to inefficiencies or security concerns.
 
+| Type  | Code | Status       | Description                                       | Why                                                       |
+| ----- | ---- | ------------ | ------------------------------------------------- | --------------------------------------------------------- |
+| 0     | 0    |              | Echo reply (used to ping)                         | Control message for ping functionality                    |
+| 1-2   |      | unassigned   | Reserved                                          | Reserved for future use                                   |
+| 3     | 0    |              | **Destination network unreachable**               | **Destination network unreachable**                       |
+|       | 1    |              | Destination host unreachable                      | Destination host is unreachable                           |
+|       | 2    |              | Destination protocol unreachable                  | Destination protocol is unreachable                       |
+|       | 3    |              | Destination port unreachable                      | Destination port is unreachable                           |
+|       | 4    |              | Fragmentation required, and DF flag set           | Fragmentation required, but DF flag set                   |
+|       | 5    |              | Source route failed                               | Source route failed                                       |
+|       | 6    |              | Destination network unknown                       | Destination network is unknown                            |
+|       | 7    |              | Destination host unknown                          | Destination host is unknown                               |
+|       | 8    |              | Source host isolated                              | Source host is isolated                                   |
+|       | 9    |              | Network administratively prohibited               | Network administratively prohibited                       |
+|       | 10   |              | Host administratively prohibited                  | Host administratively prohibited                          |
+|       | 11   |              | Network unreachable for ToS                       | Network unreachable for Type of Service                   |
+|       | 12   |              | Host unreachable for ToS                          | Host unreachable for Type of Service                      |
+|       | 13   |              | Communication administratively prohibited         | Communication administratively prohibited                 |
+|       | 14   |              | Host Precedence Violation                         | Host Precedence Violation                                 |
+|       | 15   |              | Precedence cutoff in effect                       | Precedence cutoff in effect                               |
+| 4     | 0    | deprecated   | Source quench (congestion control)                | Congestion control mechanism, deprecated by RFC 1812      |
+| 5     | 0    |              | Redirect Datagram for the Network                 | Redirect Datagram for the Network                         |
+|       | 1    |              | Redirect Datagram for the Host                    | Redirect Datagram for the Host                            |
+|       | 2    |              | Redirect Datagram for the ToS & network           | Redirect Datagram for the Type of Service & network       |
+|       | 3    |              | Redirect Datagram for the ToS & host              | Redirect Datagram for the Type of Service & host          |
+|       | 6    | deprecated   | Alternate Host Address                            | Deprecated - Alternate Host Address                       |
+|       | 7    | unassigned   | Reserved                                          | Reserved for future use                                   |
+| 8     | 0    |              | Echo request (used to ping)                       | Control message for ping functionality                    |
+| 9     | 0    |              | Router Advertisement                              | Router Advertisement                                      |
+| 10    | 0    |              | Router discovery/selection/solicitation           | Router discovery/selection/solicitation                   |
+| 11    | 0    |              | TTL expired in transit                            | Time to Live expired in transit                           |
+|       | 1    |              | Fragment reassembly time exceeded                 | Fragment reassembly time exceeded                         |
+| 12    | 0    |              | Pointer indicates the error                       | Pointer indicates the error                               |
+|       | 1    |              | Missing a required option                         | Missing a required option                                 |
+|       | 2    |              | Bad length                                        | Bad length                                                |
+| 13    | 0    |              | Timestamp                                         | Timestamp                                                 |
+| 14    | 0    |              | Timestamp reply                                   | Timestamp reply                                           |
+| 15    | 0    | deprecated   | Information Request                               | Deprecated - Information Request                          |
+| 16    | 0    | deprecated   | Information Reply                                 | Deprecated - Information Reply                            |
+| 17    | 0    | deprecated   | Address Mask Request                              | Deprecated - Address Mask Request                         |
+| 18    | 0    | deprecated   | Address Mask Reply                                | Deprecated - Address Mask Reply                           |
+| 19    |      | reserved     | Reserved for security                             | Reserved for security                                     |
+| 20-29 |      | reserved     | Reserved for robustness experiment                | Reserved for robustness experiment                        |
+| 30    | 0    | deprecated   | Information Request                               | Deprecated - Information Request                          |
+| 31    |      | deprecated   | Datagram Conversion Error                         | Deprecated - Datagram Conversion Error                    |
+| 32    |      | deprecated   | Mobile Host Redirect                              | Deprecated - Mobile Host Redirect                         |
+| 33    |      | deprecated   | Where-Are-You (originally meant for IPv6)         | Deprecated - Where-Are-You (originally for IPv6)          |
+| 34    |      | deprecated   | Here-I-Am (originally meant for IPv6)             | Deprecated - Here-I-Am (originally for IPv6)              |
+| 35    |      | deprecated   | Mobile Registration Request                       | Deprecated - Mobile Registration Request                  |
+| 36    |      | deprecated   | Mobile Registration Reply                         | Deprecated - Mobile Registration Reply                    |
+| 37    |      | deprecated   | Domain Name Request                               | Deprecated - Domain Name Request                          |
+| 38    |      | deprecated   | Domain Name Reply                                 | Deprecated - Domain Name Reply                            |
+| 39    |      | deprecated   | SKIP Algorithm Discovery Protocol                 | Deprecated - SKIP Algorithm Discovery Protocol            |
+| 40    |      |              | Photuris, Security failures                       | Photuris, Security failures                               |
+| 41    |      | experimental | ICMP for experimental mobility protocols          | Experimental - ICMP for experimental mobility protocols   |
+| 42    | 0    |              | Request Extended Echo (XPing - see Extended Ping) | Request Extended Echo (XPing) - see Extended Ping (Xping) |
+| 43    | 0    |              | Extended Echo Reply                               | Extended Echo Reply                                       |
+|       | 1    |              | Malformed Query                                   | Malformed Query                                           |
+|       | 2    |              | No Such Interface                                 | No Such Interface                                         |
+|       | 3    |              | No Such                                           |                                                           |
+|       |      |              |                                                   |                                                           |
 
 
