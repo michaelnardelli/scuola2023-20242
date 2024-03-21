@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5e3fc323190d3ddc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6989e0e5a0d2dd82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4a555b04970bd372",
         "type": "tabs",
         "children": [
@@ -101,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
+                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
+                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md"
+                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf"
               }
             }
           }
@@ -163,53 +145,52 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "6989e0e5a0d2dd82",
+  "active": "f23fa94c7c1d494d",
   "lastOpenFiles": [
-    "Informatica/appunti/Untitled.md",
-    "Informatica/appunti/The Basics of GitHub.md",
-    "Informatica/Ripasso git.md",
-    "Informatica/appunti/git cmd.md",
-    "Informatica/ANGULAR.md",
-    "Informatica/appunti/Informatica/Ripasso git.md",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
+    "tipist/pratica/LAB.md",
+    "tipist/apunti/ripasso/UTF 8.md",
+    "tipist/apunti/ripasso/TPSIT int.md",
+    "tipist/apunti/ripasso/Proccesi e Processori.md",
+    "tipist/apunti/ripasso/Senza nome.md",
+    "tipist/apunti/ripasso/scalletta verifica.md",
+    "tipist/apunti/ripasso/ripasso.md",
+    "tipist/apunti/ripasso/CODIFICA DEI CARATTERI.md",
+    "tipist/apunti/ripasso/asciistd.gif",
+    "tipist/apunti/UNICODE.md",
+    "tipist/apunti/TPSIT int.md",
+    "tipist/apunti/gestioni risorse.md",
+    "tipist/apunti/risorse + concorezza.md",
+    "tipist/apunti/ripasso",
+    "tipist/apunti/ASCII.md",
+    "tipist/apunti",
+    "tipist/How JavaScript’s Asynchronous Operations Work in the Browser.md",
+    "tipist/All about Promises in JavaScript.md",
+    "ita-storia/italiano/2023-2024/g parini.md",
+    "ita-storia/italiano/2023-2024/Ultime lettere di Jacopo Ortis.md",
+    "ita-storia/italiano/2023-2024/Ugo Foscolo (1778-1827).md",
+    "ita-storia/italiano/2023-2024/Ripasso romanticismo.md",
+    "ita-storia/italiano/2023-2024/qualcosa.md",
+    "ita-storia/italiano/2023-2024/passato presente die.md",
+    "ita-storia/italiano/2023-2024/LA POESIA BAROCCA.md",
+    "ita-storia/italiano/2023-2024/La legislazione sociale in Italia alla fi ne dell’Ottocento.md",
+    "ita-storia/italiano/2023-2024/In morte del fratello Giovanni.md",
     "img/Immagine.png",
     "img/Pasted image 20230912111507.png",
     "img/Pasted image 20230912111028.png",
-    "Informatica/appunti/Informatica/git cmd.md",
-    "Informatica/appunti/Informatica/The Basics of GitHub.md",
     "Informatica/appunti/Informatica/git hub tutorial/02_05_2023 UML scema.png",
     "Telecomunicazioni/2023-2024/FM_Frequency Modulation/21_03_2024 tele.med",
-    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
-    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
     "img/Pasted image 20240321110608.png",
     "img/Pasted image 20240321110501.png",
     "img/Pasted image 20240321110417.png",
     "img/Pasted image 20240321110405.png",
     "img/Pasted image 20240321110404.png",
-    "img/Pasted image 20240321110104.png",
-    "ita-storia/Esercizio 5 maggio.md",
-    "Informatica/appunti/Classe astratta vs interfaccia.md",
-    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/Introduzione alla Modulazione di Frequenza.md",
-    "sistemi e reti/RIPASSO RETI.md",
-    "ita-storia/italiano/Ripasso romanticismo.md",
-    "ita-storia/italiano/qualcosa.md",
-    "ita-storia/italiano/passato presente die.md",
-    "ita-storia/italiano/In morte del fratello Giovanni.md",
-    "ita-storia/italiano/Alla sera(ugolo Foscolo).md",
-    "ita-storia/italiano/A Zacinto.md",
-    "ita-storia/Ripasso romanticismo.md",
-    "tipist/Gestione delle Risorse e Concorrenza.md",
-    "Informatica/DATABASE.md",
     "matematica/15_03_2024 derivate.med",
-    "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
-    "Informatica/appunti/WRAPPER CLASSES.md",
-    "Informatica/appunti/lista albero.md",
-    "tipist/apunti/risorse + concorezza.md",
     "matematica/12_03_2024 derivate.med",
     "matematica/27_02_2024.med",
     "Telecomunicazioni/2023-2024/DSB–SC modulation/240130_introduzione a _AM Amplitude Modulation_.pdf",
     "matematica/26_02_2024 derivate.med",
-    "matematica/19_02_2024 derivate.med",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/231123_introduzione a _AM Amplitude Modulation_.pdf",
-    "Telecomunicazioni/2023-2024/DSB–SC modulation/DSB–SC modulation.pdf"
+    "matematica/19_02_2024 derivate.med"
   ]
 }
