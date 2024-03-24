@@ -1,0 +1,3 @@
+- abolitone della censura 
+- nazionalizzazione delle proietta ecclesiastiche
+- elaborazione di una avanzata costituzione democratica
