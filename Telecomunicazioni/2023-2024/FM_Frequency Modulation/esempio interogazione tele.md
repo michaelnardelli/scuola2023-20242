@@ -11,7 +11,11 @@ per trovare la deviazione istantanea di frequenza di un segnale
 ![[Pasted image 20240321104225.png]]
 la velocita angolare= pulsazione se fosse costante
 ![[Pasted image 20240321105308.png]]
-Esempio di grafico
+Esempio di grafici
+![[Pasted image 20240325094204.png]]
+
+![[Pasted image 20240325094136.png]]
+
 ![[Pasted image 20240321105425.png]]
 Occhio alla costante *K*
 

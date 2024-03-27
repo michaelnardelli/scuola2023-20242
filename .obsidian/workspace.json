@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4a555b04970bd372",
+        "id": "d9761d26fb036280",
         "type": "tabs",
         "children": [
           {
-            "id": "f23fa94c7c1d494d",
+            "id": "1d7c6fde6197f573",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf"
+                "file": "Senza nome.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
+                "file": "Senza nome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
+                "file": "Senza nome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf"
+                "file": "Senza nome.md"
               }
             }
           }
@@ -145,8 +147,37 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "f23fa94c7c1d494d",
+  "active": "1d7c6fde6197f573",
   "lastOpenFiles": [
+    "Senza nome.md",
+    "matematica/2023-2024/derivate/26_03-2024 verifica.med",
+    "matematica/2023-2024/derivate/formule.md",
+    "matematica/05_02_2024 _      VERIFICA MATE LIM               _Michael nardelli.pdf",
+    "matematica/2023-2024/derivate/dervate composte.md",
+    "Semafori interi.md",
+    "img/Pasted image 20240326085852.png",
+    "img/Pasted image 20240326085828.png",
+    "img/Pasted image 20240326085742.png",
+    "img/Pasted image 20240326085651.png",
+    "ita-storia/Manzoni Dagli atrii muscosi, dai Fori cadenti.md",
+    "tipist/apunti/risorse + concorezza.md",
+    "tipist/apunti/gestioni risorse.md",
+    "tipist/apunti/ripasso/ASCII.md",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
+    "img/Pasted image 20240325094204.png",
+    "img/Pasted image 20240325094136.png",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/Introduzione alla Modulazione di Frequenza.md",
+    "Informatica/DATABASE.md",
+    "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
+    "Informatica/appunti/ARRAY LIST.md",
+    "Informatica/appunti/info 2023-10-25.md",
+    "Informatica/appunti/The Basics of GitHub.md",
+    "Informatica/appunti/String Pool.md",
+    "Informatica/appunti/lista albero.md",
+    "Informatica/appunti/Untitled.md",
+    "Informatica/appunti/git cmd.md",
+    "Informatica/appunti/Classe astratta vs interfaccia.md",
     "matematica/2022-2023/03_05_2022 disequazioni soluzioni.med",
     "matematica/2022-2023/04_05_2022 disequazioni.med",
     "matematica/2022-2023/04_10_2022 matemarica equazione di grado superiore.med",
@@ -154,44 +185,15 @@
     "matematica/2022-2023/bononsoniente.med",
     "matematica/2022-2023/kdkdkdkdkdkdkdkdkdkddkddkdkk.med",
     "matematica/2022-2023/10_05_2023 cosanon so.med",
-    "matematica/2022-2023/10_05_2023 sportello.med",
-    "matematica/2022-2023/29_05_2023 autonomia formule automomia finanzia.med",
-    "matematica/2022-2023/29_05_2023 autonomia verfica automomia finanzia.med",
-    "matematica/2022-2023/20_06_2023 cose.med",
     "matematica/2023-2024/esponeziali/13_12_2023 compiti.jpg",
     "matematica/2023-2024/esponeziali/Funzioni composte esponenziale e logaritmi.md",
-    "matematica/2023-2024/derivate/dervate composte.md",
     "matematica/2023-2024/13_12_2023 compiti.jpg",
     "matematica/2023-2024/dervate composte.md",
     "matematica/2023-2024/Funzioni composte esponenziale e logaritmi.md",
     "ita-storia/storia/Republica romana.md",
     "ita-storia/Republica romana.md",
     "Republica romana.md",
-    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
-    "tipist/pratica/LAB.md",
-    "tipist/apunti/ripasso/UTF 8.md",
-    "tipist/apunti/ripasso/TPSIT int.md",
-    "tipist/apunti/ripasso/Proccesi e Processori.md",
-    "tipist/apunti/ripasso/Senza nome.md",
-    "tipist/apunti/ripasso/scalletta verifica.md",
-    "tipist/apunti/ripasso/ripasso.md",
-    "tipist/apunti/ripasso/CODIFICA DEI CARATTERI.md",
     "tipist/apunti/ripasso/asciistd.gif",
-    "tipist/apunti/UNICODE.md",
-    "tipist/apunti/TPSIT int.md",
-    "tipist/apunti/gestioni risorse.md",
-    "tipist/apunti/risorse + concorezza.md",
-    "tipist/apunti/ASCII.md",
-    "tipist/How JavaScript’s Asynchronous Operations Work in the Browser.md",
-    "tipist/All about Promises in JavaScript.md",
-    "ita-storia/italiano/2023-2024/g parini.md",
-    "ita-storia/italiano/2023-2024/Ultime lettere di Jacopo Ortis.md",
-    "img/Immagine.png",
-    "img/Pasted image 20230912111507.png",
-    "img/Pasted image 20230912111028.png",
-    "Informatica/appunti/Informatica/git hub tutorial/02_05_2023 UML scema.png",
-    "img/Pasted image 20240321110608.png",
-    "img/Pasted image 20240321110501.png",
-    "img/Pasted image 20240321110417.png"
+    "img/Immagine.png"
   ]
 }
