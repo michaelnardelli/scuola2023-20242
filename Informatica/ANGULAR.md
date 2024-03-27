@@ -1,4 +1,8 @@
-`# [ANGULAR](https://angular.io/)  Angular è un framework basato su [Node.js](https://v8.dev/), che funge da strato intermedio tra un sistema operativo e il software che lo utilizza.  Un linguaggio compilato deve essere trasformato in linguaggio macchina prima di essere eseguito, mentre un linguaggio interpretato viene eseguito senza ulteriori trasformazioni su qualsiasi computer.  ## COME INSTALLARE ANGULAR  1. Scaricare ed installare Node.js sul proprio PC. **Nota**: per lo sviluppo, useranno CodeSpaces, quindi non è necessario installare nulla. 2. Installare Angular con il seguente comando:    ```bash    npm install -g @angular/cli`
+# [ANGULAR](https://angular.io/)  
+Angular è un framework basato su [Node.js](https://v8.dev/), che funge da strato intermedio tra un sistema operativo e il software che lo utilizza.  Un linguaggio compilato deve essere trasformato in linguaggio macchina prima di essere eseguito, mentre un linguaggio interpretato viene eseguito senza ulteriori trasformazioni su qualsiasi computer.  
+## COME INSTALLARE ANGULAR  
+1. Scaricare ed installare Node.js sul proprio PC. **Nota**: per lo sviluppo, useranno CodeSpaces, quindi non è necessario installare nulla.
+2. 2. Installare Angular con il seguente comando:    ```bash    npm install -g @angular/cli`
 
 -   Per aggiornare npm, eseguire il comando:
 
