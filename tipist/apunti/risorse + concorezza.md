@@ -1,4 +1,4 @@
-ncondivisone
+condivisone
 	collaborazione
 	compunzione
 mutua esclusione

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d9761d26fb036280",
+        "id": "4e4b1a971c786454",
         "type": "tabs",
         "children": [
           {
-            "id": "1d7c6fde6197f573",
+            "id": "5bc18bd79709cf4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Senza nome.md",
+                "file": "Soluzioni tipo A.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Senza nome.md",
+                "file": "Soluzioni tipo A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Senza nome.md",
+                "file": "Soluzioni tipo A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Senza nome.md"
+                "file": "Soluzioni tipo A.md"
               }
             }
           }
@@ -147,9 +147,26 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "1d7c6fde6197f573",
+  "active": "5bc18bd79709cf4e",
   "lastOpenFiles": [
-    "Senza nome.md",
+    "es b.md",
+    "Senza nome 1.md",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
+    "img/Pasted image 20240422080411.png",
+    "img/Pasted image 20240422080356.png",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/Introduzione alla Modulazione di Frequenza.md",
+    "autonomia/python/come crare un progetto in phyton.md",
+    "autonomia/Application Connections.md",
+    "autonomia/Challenges for Securing IoT Devices.md",
+    "autonomia/comandi rasspery.md",
+    "autonomia/IoT World Forum Reference Model.md",
+    "autonomia/The Impact of the IoT on Privacy.md",
+    "autonomia/ssh.md",
+    "autonomia/comnadi rasperry.md",
+    "tipist/apunti/gestioni risorse.md",
+    "tipist/apunti/risorse + concorezza.md",
+    "2024-04-15.md",
+    "Soluzioni tipo A.md",
     "matematica/2023-2024/derivate/26_03-2024 verifica.med",
     "matematica/2023-2024/derivate/formule.md",
     "matematica/05_02_2024 _      VERIFICA MATE LIM               _Michael nardelli.pdf",
@@ -160,24 +177,15 @@
     "img/Pasted image 20240326085742.png",
     "img/Pasted image 20240326085651.png",
     "ita-storia/Manzoni Dagli atrii muscosi, dai Fori cadenti.md",
-    "tipist/apunti/risorse + concorezza.md",
-    "tipist/apunti/gestioni risorse.md",
     "tipist/apunti/ripasso/ASCII.md",
     "Telecomunicazioni/2023-2024/FM_Frequency Modulation/240307_introduzione a _FM_Frequency Modulation_con esercizi_AB_risolti_.pdf",
-    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
     "img/Pasted image 20240325094204.png",
     "img/Pasted image 20240325094136.png",
-    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/Introduzione alla Modulazione di Frequenza.md",
     "Informatica/DATABASE.md",
     "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
     "Informatica/appunti/ARRAY LIST.md",
     "Informatica/appunti/info 2023-10-25.md",
     "Informatica/appunti/The Basics of GitHub.md",
-    "Informatica/appunti/String Pool.md",
-    "Informatica/appunti/lista albero.md",
-    "Informatica/appunti/Untitled.md",
-    "Informatica/appunti/git cmd.md",
-    "Informatica/appunti/Classe astratta vs interfaccia.md",
     "matematica/2022-2023/03_05_2022 disequazioni soluzioni.med",
     "matematica/2022-2023/04_05_2022 disequazioni.med",
     "matematica/2022-2023/04_10_2022 matemarica equazione di grado superiore.med",
@@ -186,14 +194,6 @@
     "matematica/2022-2023/kdkdkdkdkdkdkdkdkdkddkddkdkk.med",
     "matematica/2022-2023/10_05_2023 cosanon so.med",
     "matematica/2023-2024/esponeziali/13_12_2023 compiti.jpg",
-    "matematica/2023-2024/esponeziali/Funzioni composte esponenziale e logaritmi.md",
-    "matematica/2023-2024/13_12_2023 compiti.jpg",
-    "matematica/2023-2024/dervate composte.md",
-    "matematica/2023-2024/Funzioni composte esponenziale e logaritmi.md",
-    "ita-storia/storia/Republica romana.md",
-    "ita-storia/Republica romana.md",
-    "Republica romana.md",
-    "tipist/apunti/ripasso/asciistd.gif",
-    "img/Immagine.png"
+    "matematica/2023-2024/13_12_2023 compiti.jpg"
   ]
 }

@@ -20,7 +20,7 @@ Esempio di grafici
 Occhio alla costante *K*
 
 ![[Pasted image 20240321105704.png]]
-![[Pasted image 20240321105730.png]]
+![[Pasted image 20240321105730.png]]/V
 
 Per calcolare la pulsazione del segnale 
 ![[Pasted image 20240321110104.png]]
@@ -43,5 +43,8 @@ i principali problemi
 pag9/10
 
 
+![[Pasted image 20240422080356.png]]
+![[Pasted image 20240422080411.png]]
 
 
+****
