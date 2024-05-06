@@ -33,10 +33,54 @@ Il problema del produttore-consumatore è un classico esempio di sincronizzazion
 
 #### Implementazione con Semafori
 
-markdown
+### Produttore ###
+1. produci_dato()
+2. wait(spazio_disponibile)
+3. wait(mutex)
+4. inserisci_dato_nel_buffer()
+5. signal(mutex)
+6. signal(elementi_disponibili)
 
-Copy code
+### Consumatore ###
+1. wait(elementi_disponibili)
+2. wait(mutex)
+3. preleva_dato_dal_buffer()
+4. signal(mutex)
+5. signal(spazio_disponibile)
+6. consuma_dato()
 
-`### Produttore ### 1. produci_dato() 2. wait(spazio_disponibile) 3. wait(mutex) 4. inserisci_dato_nel_buffer() 5. signal(mutex) 6. signal(elementi_disponibili)  ### Consumatore ### 1. wait(elementi_disponibili) 2. wait(mutex) 3. preleva_dato_dal_buffer() 4. signal(mutex) 5. signal(spazio_disponibile) 6. consuma_dato()`
 
-Questi sono gli appunti principali sulla concorrenza, i semafori di Dijkstra, i semafori interi e la sincronizzazione.
+
+
+
+## Soluzione: Lettura/Scrittura su File Concorrente
+
+### Definizione dei Semafori
+- `mutex`: Semaforo per l'accesso esclusivo alla scrittura.
+- `lettura`: Semaforo per la sincronizzazione della lettura.
+- `scrittura`: Semaforo per la sincronizzazione della scrittura.
+- `num_lettori`: Contatore del numero di processi lettori attivi.
+
+### Funzione per la Lettura dal File
+```markdown
+funzione leggi_file():
+    mentre vero fare:
+        acquisisci(lettura)  // Acquisizione del semaforo di lettura
+        num_lettori += 1  // Incremento del numero di lettori attivi
+        se num_lettori == 1:  // Se è il primo lettore, blocca l'accesso alla scrittura
+            acquisisci(scrittura)
+        rilascia(lettura)  // Rilascio del semaforo di lettura
+        
+        // Simulazione lettura dal file
+        stampa "Lettura in corso..."
+        attesa(1)
+        
+        acquisisci(lettura)  // Acquisizione del semaforo di lettura
+        num_lettori -= 1  // Decremento del numero di lettori attivi
+        se num_lettori == 0:  // Se non ci sono più lettori, sblocca l'accesso alla scrittura
+            rilascia(scrittura)
+        rilascia(lettura)  // Rilascio del semaforo di lettura
+        attesa(2)  // Attesa tra le letture
+
+
+
