@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soluzioni tipo A.md",
+                "file": "Telecomunicazioni/2023-2024/FM_Frequency Modulation/es b.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a3e7c85ceb4efab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tipist/apunti/Concorrenza e Sincronizzazione con Semafori di Dijkstra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soluzioni tipo A.md",
+                "file": "tipist/apunti/Concorrenza e Sincronizzazione con Semafori di Dijkstra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soluzioni tipo A.md",
+                "file": "tipist/apunti/Concorrenza e Sincronizzazione con Semafori di Dijkstra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soluzioni tipo A.md"
+                "file": "tipist/apunti/Concorrenza e Sincronizzazione con Semafori di Dijkstra.md"
               }
             }
           }
@@ -147,10 +160,13 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "5bc18bd79709cf4e",
+  "active": "83526c6744f1b545",
   "lastOpenFiles": [
-    "es b.md",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/es b.md",
+    "tipist/apunti/Concorrenza e Sincronizzazione con Semafori di Dijkstra.md",
+    "Telecomunicazioni/2023-2024/FM_Frequency Modulation/Soluzioni tipo A.md",
     "Senza nome 1.md",
+    "2024-04-15.md",
     "Telecomunicazioni/2023-2024/FM_Frequency Modulation/esempio interogazione tele.md",
     "img/Pasted image 20240422080411.png",
     "img/Pasted image 20240422080356.png",
@@ -165,13 +181,11 @@
     "autonomia/comnadi rasperry.md",
     "tipist/apunti/gestioni risorse.md",
     "tipist/apunti/risorse + concorezza.md",
-    "2024-04-15.md",
-    "Soluzioni tipo A.md",
     "matematica/2023-2024/derivate/26_03-2024 verifica.med",
     "matematica/2023-2024/derivate/formule.md",
     "matematica/05_02_2024 _      VERIFICA MATE LIM               _Michael nardelli.pdf",
     "matematica/2023-2024/derivate/dervate composte.md",
-    "Semafori interi.md",
+    "tipist/Semafori interi.md",
     "img/Pasted image 20240326085852.png",
     "img/Pasted image 20240326085828.png",
     "img/Pasted image 20240326085742.png",
@@ -185,7 +199,6 @@
     "Informatica/appunti/ALBERO BINARIO DI RICERCA.md",
     "Informatica/appunti/ARRAY LIST.md",
     "Informatica/appunti/info 2023-10-25.md",
-    "Informatica/appunti/The Basics of GitHub.md",
     "matematica/2022-2023/03_05_2022 disequazioni soluzioni.med",
     "matematica/2022-2023/04_05_2022 disequazioni.med",
     "matematica/2022-2023/04_10_2022 matemarica equazione di grado superiore.med",
